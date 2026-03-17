@@ -12,11 +12,11 @@ done:
 
 
 todo:
- Have to convert the script that uses the series_info.json to take api calls from the igdb database
- Have to update and spruce up the style.css
- Create another page or have an event in order to make a title screen for a landing screen with buttons to start playing
- After making working base game, have to develop websocket support and connection to Archipelago
- Enable use of icons for genres and the like, or at least have screenshot/game cover support
+ * Have to convert the script that uses the series_info.json to take api calls from the igdb database
+ * Have to update and spruce up the style.css
+ * Create another page or have an event in order to make a title screen for a landing screen with buttons to start playing
+ * After making working base game, have to develop websocket support and connection to Archipelago
+ * Enable use of icons for genres and the like, or at least have screenshot/game cover support
 
 
 
