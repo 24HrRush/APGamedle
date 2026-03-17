@@ -1,6 +1,11 @@
-# manga-gamedle-clone
+# AP Gamedle
 
-https://mangaguess.netlify.app/page.html
+Foundation taken from manga gamedle clone
+
+
+
+
+Original Works' Todo
 
 done:
  * finish colouring conditions for the other columns
