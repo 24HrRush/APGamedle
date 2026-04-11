@@ -4,6 +4,8 @@ let correctCategories = [];
 
 let mangaList = [];
 
+document.getElementById("gameScreen").style.display = "none";
+
 // Load data from the JSON file
 fetch('series_info.json')
     .then(response => {
