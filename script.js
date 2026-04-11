@@ -18,8 +18,9 @@ fetch('series_info.json')
         mangaList = data;
         // Initialize the game after loading the data
         window.addEventListener("keyup", ev => {
-  if (ev.keyCode === 38) {
-    document.body.innerHTML = "<h1 id='gameOn'>GAME ON!!!</h1>"
+  if (ev.key === "ArrowUp") {
+    document.getElementById("startScreen").style.display = "none";
+    document.getElementById("gameScreen").style.display = "block";
     initGame();
   }
 });
