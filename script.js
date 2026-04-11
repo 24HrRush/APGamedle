@@ -17,13 +17,19 @@ fetch('series_info.json')
         // Update the mangaList with data from the JSON file
         mangaList = data;
         // Initialize the game after loading the data
-        initGame();
+        window.addEventListener("keyup", ev => {
+  if (ev.keyCode === 38) {
+    document.body.innerHTML = "<h1 id='gameOn'>GAME ON!!!</h1>"
+    initGame();
+  }
+});
     })
     .catch(error => {
         console.error('There has been a problem with your fetch operation:', error);
     });
 
-function initGame() {
+
+    function initGame() {
     populateDataList();
     resetGame();
 }
