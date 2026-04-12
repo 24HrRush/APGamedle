@@ -112,7 +112,21 @@ function giveHint() {
   Object.keys(gameToGuess).forEach((key, i) => {
     const cell = newRow.insertCell(i);
     if (key === hintCategory) {
-      cell.innerText = gameToGuess[hintCategory];
+      if (hintCategory === 'genres') {
+  cell.innerText = gameToGuess.genres.map(g => g.name).join(", ");
+} 
+else if (hintCategory === 'platforms') {
+  cell.innerText = gameToGuess.platforms.map(p => p.name).join(", ");
+} 
+else if (hintCategory === 'involved_companies') {
+  cell.innerText = gameToGuess.involved_companies.map(c => c.company.name).join(", ");
+}
+else if (hintCategory === 'categories') {
+  cell.innerText = gameToGuess.categories.map(c => c.name).join(", ");
+}
+else {
+  cell.innerText = gameToGuess[hintCategory];
+}
       cell.style.backgroundColor = '#77DD77'; // You can choose another color for hints
     } else {
       cell.innerText = " "; // Empty cell for all other categories
