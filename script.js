@@ -183,6 +183,27 @@ else {
       }
       return;
     }
+
+    if (key === 'rating') {
+      const correctRating = parseInt(gameToGuess[key]);
+      const guessedRating = parseInt(guessedGame[key]);
+            
+      if (guessedRating === correctRating) {
+        cell.style.backgroundColor = 'green';
+      } else if (typeof guessedRating === "number" && typeof correctRating === "number") {
+        const diff = guessedRating - correctRating;
+        if (Math.abs(diff) <= 5) {
+          cell.style.backgroundColor = 'yellow';
+          cell.innerHTML += ` ${diff < 0 ? '&#9650;' : '&#9660;'}`;
+        } else {
+          cell.style.backgroundColor = 'red';
+          cell.innerHTML += ` ${diff < 0 ? '&#9650;' : '&#9660;'}`;
+        }
+      } else {
+        cell.style.backgroundColor = 'red';
+      }
+      return;
+    }
     
     if (key === 'genres') {
       const correctGenres = gameToGuess.genres.map(g => g.name);
