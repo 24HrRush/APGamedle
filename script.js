@@ -151,8 +151,12 @@ else if (key === 'involved_companies') {
   cell.innerText = guessedGame.involved_companies.map(c => c.company.name).join(", ");
 }
 else if (key === 'cover') {
-  const url = "https:" + guessedGame.cover.url;
-  cell.innerHTML = `<img src="${url}">`;
+  if (guessedGame.cover?.url) {
+    const url = "https:" + guessedGame.cover.url;
+    cell.innerHTML = `<img src="${url}" alt="cover">`;
+  } else {
+    cell.innerText = "No cover";
+  }
 }
 else {
   cell.innerText = guessedGame[key];
