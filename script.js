@@ -98,7 +98,7 @@ function giveHint() {
   
   // Calculate the list of categories that have not been guessed correctly yet
   const unguessedCategories = Object.keys(gameToGuess).filter(category => {
-    return !correctCategories.includes(category) && category !== 'name' && category !== 'rating' && category !== 'cover';
+    return !correctCategories.includes(category) && category !== 'name' && category !== 'rating';
   });
   
   // Pick a random unguessed category to provide a hint for
@@ -112,7 +112,7 @@ function giveHint() {
   Object.keys(gameToGuess).forEach((key, i) => {
     const cell = newRow.insertCell(i);
     if (key === hintCategory) {
-      cell.innerText = gameToGuess.hintCategory.map(h => h.name).join(", ");
+      cell.innerText = gameToGuess[hintCategory];
       cell.style.backgroundColor = 'green'; // You can choose another color for hints
     } else {
       cell.innerText = " "; // Empty cell for all other categories
