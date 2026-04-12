@@ -74,7 +74,7 @@ let gameToGuess = getRandomGame();
 
 function resetGame() {
   gameIsActive = true;
-  gameToGuess = getRandomGame();  // Generate a new manga to guess
+  gameToGuess = getRandomGame();  // Generate a new game to guess
   
   const input = document.getElementById("guess");
   const guessButton = document.getElementById("guessButton");
@@ -171,6 +171,22 @@ function checkGuess() {
       const intersection = guessedGenres.filter(g => correctGenres.includes(g));
       
       if (intersection.length === guessedGenres.length && guessedGenres.length === correctGenres.length) {
+          cell.style.backgroundColor = 'green';
+      } else if (intersection.length > 0) {
+          cell.style.backgroundColor = 'yellow';
+      } else {
+          cell.style.backgroundColor = 'red';
+      }
+      return;
+    }
+
+    if (key === 'platforms') {
+      const correctPlatforms = gameToGuess.platforms.map(g => g.name).join(", ");
+      const guessedPlatforms = guessedGame.platforms.map(g => g.name).join(", ");
+  
+      const intersection = guessedPlatforms.filter(g => correctPlatforms.includes(g));
+      
+      if (intersection.length === guessedPlatforms.length && guessedPlatforms.length === correctPlatforms.length) {
           cell.style.backgroundColor = 'green';
       } else if (intersection.length > 0) {
           cell.style.backgroundColor = 'yellow';
