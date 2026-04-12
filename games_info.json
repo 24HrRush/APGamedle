@@ -262,12 +262,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co20gb.jpg"
     },
     "first_release_date": "1998",
-    "franchises": [
-      {
-        "id": 43,
-        "name": "Dungeons & Dragons"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -332,16 +326,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co71yr.jpg"
     },
     "first_release_date": "2000",
-    "franchises": [
-      {
-        "id": 43,
-        "name": "Dungeons & Dragons"
-      },
-      {
-        "id": 6951,
-        "name": "Forgotten Realms"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -526,16 +510,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2n14.jpg"
     },
     "first_release_date": "2004",
-    "franchises": [
-      {
-        "id": 784,
-        "name": "World of Darkness"
-      },
-      {
-        "id": 3457,
-        "name": "Vampire the Masquerade"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -581,16 +555,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7nl9.jpg"
     },
     "first_release_date": "2000",
-    "franchises": [
-      {
-        "id": 784,
-        "name": "World of Darkness"
-      },
-      {
-        "id": 3457,
-        "name": "Vampire the Masquerade"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -637,12 +601,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1ybn.jpg"
     },
     "first_release_date": "1997",
-    "franchises": [
-      {
-        "id": 1034,
-        "name": "Fallout"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -725,12 +683,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8ado.jpg"
     },
     "first_release_date": "1998",
-    "franchises": [
-      {
-        "id": 1034,
-        "name": "Fallout"
-      }
-    ],
     "genres": [
       {
         "id": 9,
@@ -798,12 +750,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1ycw.jpg"
     },
     "first_release_date": "2008",
-    "franchises": [
-      {
-        "id": 1034,
-        "name": "Fallout"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -854,12 +800,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1u60.jpg"
     },
     "first_release_date": "2010",
-    "franchises": [
-      {
-        "id": 1034,
-        "name": "Fallout"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -924,12 +864,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1ybr.jpg"
     },
     "first_release_date": "2001",
-    "franchises": [
-      {
-        "id": 1034,
-        "name": "Fallout"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -998,12 +932,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3wb2.jpg"
     },
     "first_release_date": "2001",
-    "franchises": [
-      {
-        "id": 1822,
-        "name": "Max Payne"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -1141,12 +1069,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2lcl.jpg"
     },
     "first_release_date": "2003",
-    "franchises": [
-      {
-        "id": 1822,
-        "name": "Max Payne"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -1208,12 +1130,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2mli.jpg"
     },
     "first_release_date": "2007",
-    "franchises": [
-      {
-        "id": 1686,
-        "name": "Bioshock"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -1293,12 +1209,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2mlj.jpg"
     },
     "first_release_date": "2010",
-    "franchises": [
-      {
-        "id": 1686,
-        "name": "Bioshock"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -1556,12 +1466,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobqqd.jpg"
     },
     "first_release_date": "1994",
-    "franchises": [
-      {
-        "id": 1064,
-        "name": "X-COM"
-      }
-    ],
     "genres": [
       {
         "id": 15,
@@ -1734,12 +1638,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2g7w.jpg"
     },
     "first_release_date": "2008",
-    "franchises": [
-      {
-        "id": 1386,
-        "name": "Dead Space"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -1790,12 +1688,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co20xq.jpg"
     },
     "first_release_date": "2011",
-    "franchises": [
-      {
-        "id": 1386,
-        "name": "Dead Space"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -1993,12 +1885,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co86dk.jpg"
     },
     "first_release_date": "2000",
-    "franchises": [
-      {
-        "id": 2549,
-        "name": "Deus Ex"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -2415,12 +2301,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2knc.jpg"
     },
     "first_release_date": "1994",
-    "franchises": [
-      {
-        "id": 456,
-        "name": "The Elder Scrolls"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -2456,12 +2336,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1yan.jpg"
     },
     "first_release_date": "1996",
-    "franchises": [
-      {
-        "id": 456,
-        "name": "The Elder Scrolls"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -2501,12 +2375,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2knd.jpg"
     },
     "first_release_date": "2002",
-    "franchises": [
-      {
-        "id": 456,
-        "name": "The Elder Scrolls"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -2560,12 +2428,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co21i8.jpg"
     },
     "first_release_date": "2002",
-    "franchises": [
-      {
-        "id": 456,
-        "name": "The Elder Scrolls"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -2608,12 +2470,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co21i1.jpg"
     },
     "first_release_date": "2003",
-    "franchises": [
-      {
-        "id": 456,
-        "name": "The Elder Scrolls"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -2656,12 +2512,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8fpz.jpg"
     },
     "first_release_date": "2006",
-    "franchises": [
-      {
-        "id": 456,
-        "name": "The Elder Scrolls"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -2733,12 +2583,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co28bp.jpg"
     },
     "first_release_date": "1990",
-    "franchises": [
-      {
-        "id": 3507,
-        "name": "Monkey Island"
-      }
-    ],
     "genres": [
       {
         "id": 2,
@@ -2812,12 +2656,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co30yr.jpg"
     },
     "first_release_date": "1991",
-    "franchises": [
-      {
-        "id": 3507,
-        "name": "Monkey Island"
-      }
-    ],
     "genres": [
       {
         "id": 2,
@@ -2865,12 +2703,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co30yu.jpg"
     },
     "first_release_date": "1997",
-    "franchises": [
-      {
-        "id": 3507,
-        "name": "Monkey Island"
-      }
-    ],
     "genres": [
       {
         "id": 2,
@@ -2928,12 +2760,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2311.jpg"
     },
     "first_release_date": "2000",
-    "franchises": [
-      {
-        "id": 3507,
-        "name": "Monkey Island"
-      }
-    ],
     "genres": [
       {
         "id": 2,
@@ -3241,12 +3067,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/coay61.jpg"
     },
     "first_release_date": "2007",
-    "franchises": [
-      {
-        "id": 1724,
-        "name": "Portal"
-      }
-    ],
     "genres": [
       {
         "id": 8,
@@ -3317,12 +3137,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1rs4.jpg"
     },
     "first_release_date": "2011",
-    "franchises": [
-      {
-        "id": 1724,
-        "name": "Portal"
-      }
-    ],
     "genres": [
       {
         "id": 8,
@@ -3389,12 +3203,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1x7o.jpg"
     },
     "first_release_date": "2007",
-    "franchises": [
-      {
-        "id": 1048,
-        "name": "Mass Effect"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -3473,12 +3281,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co20ac.jpg"
     },
     "first_release_date": "2010",
-    "franchises": [
-      {
-        "id": 1048,
-        "name": "Mass Effect"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -3547,12 +3349,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1x7q.jpg"
     },
     "first_release_date": "2012",
-    "franchises": [
-      {
-        "id": 1048,
-        "name": "Mass Effect"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -3618,12 +3414,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2mvs.jpg"
     },
     "first_release_date": "2009",
-    "franchises": [
-      {
-        "id": 1047,
-        "name": "Dragon Age"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -3746,12 +3536,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2mw1.jpg"
     },
     "first_release_date": "2011",
-    "franchises": [
-      {
-        "id": 1047,
-        "name": "Dragon Age"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -3896,12 +3680,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1xrx.jpg"
     },
     "first_release_date": "2007",
-    "franchises": [
-      {
-        "id": 452,
-        "name": "The Witcher"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -3948,12 +3726,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co25n2.jpg"
     },
     "first_release_date": "2001",
-    "franchises": [
-      {
-        "id": 43,
-        "name": "Dungeons & Dragons"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -4028,16 +3800,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1tay.jpg"
     },
     "first_release_date": "2001",
-    "franchises": [
-      {
-        "id": 43,
-        "name": "Dungeons & Dragons"
-      },
-      {
-        "id": 6951,
-        "name": "Forgotten Realms"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -4166,16 +3928,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2jn0.jpg"
     },
     "first_release_date": "1992",
-    "franchise": {
-      "id": 136,
-      "name": "Frank Herbert's Dune"
-    },
-    "franchises": [
-      {
-        "id": 136,
-        "name": "Frank Herbert's Dune"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -4251,12 +4003,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4vw0.jpg"
     },
     "first_release_date": "1992",
-    "franchises": [
-      {
-        "id": 136,
-        "name": "Frank Herbert's Dune"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -4311,12 +4057,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4bca.jpg"
     },
     "first_release_date": "1998",
-    "franchises": [
-      {
-        "id": 136,
-        "name": "Frank Herbert's Dune"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -4370,12 +4110,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1oiv.jpg"
     },
     "first_release_date": "1994",
-    "franchises": [
-      {
-        "id": 729,
-        "name": "Need for Speed"
-      }
-    ],
     "genres": [
       {
         "id": 10,
@@ -4430,12 +4164,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaudb.jpg"
     },
     "first_release_date": "1997",
-    "franchises": [
-      {
-        "id": 729,
-        "name": "Need for Speed"
-      }
-    ],
     "genres": [
       {
         "id": 10,
@@ -4482,12 +4210,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2097.jpg"
     },
     "first_release_date": "1998",
-    "franchises": [
-      {
-        "id": 729,
-        "name": "Need for Speed"
-      }
-    ],
     "genres": [
       {
         "id": 10,
@@ -4537,12 +4259,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co209a.jpg"
     },
     "first_release_date": "1999",
-    "franchises": [
-      {
-        "id": 729,
-        "name": "Need for Speed"
-      }
-    ],
     "genres": [
       {
         "id": 10,
@@ -4585,12 +4301,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9bt7.jpg"
     },
     "first_release_date": "2000",
-    "franchises": [
-      {
-        "id": 729,
-        "name": "Need for Speed"
-      }
-    ],
     "genres": [
       {
         "id": 10,
@@ -4644,12 +4354,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2098.jpg"
     },
     "first_release_date": "2002",
-    "franchises": [
-      {
-        "id": 729,
-        "name": "Need for Speed"
-      }
-    ],
     "genres": [
       {
         "id": 10,
@@ -4707,12 +4411,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co209g.jpg"
     },
     "first_release_date": "2003",
-    "franchises": [
-      {
-        "id": 729,
-        "name": "Need for Speed"
-      }
-    ],
     "genres": [
       {
         "id": 10,
@@ -4763,12 +4461,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co209h.jpg"
     },
     "first_release_date": "2004",
-    "franchises": [
-      {
-        "id": 729,
-        "name": "Need for Speed"
-      }
-    ],
     "genres": [
       {
         "id": 10,
@@ -4819,12 +4511,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co209j.jpg"
     },
     "first_release_date": "2005",
-    "franchises": [
-      {
-        "id": 729,
-        "name": "Need for Speed"
-      }
-    ],
     "genres": [
       {
         "id": 10,
@@ -4874,12 +4560,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co209k.jpg"
     },
     "first_release_date": "2006",
-    "franchises": [
-      {
-        "id": 729,
-        "name": "Need for Speed"
-      }
-    ],
     "genres": [
       {
         "id": 10,
@@ -4948,12 +4628,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co209l.jpg"
     },
     "first_release_date": "2007",
-    "franchises": [
-      {
-        "id": 729,
-        "name": "Need for Speed"
-      }
-    ],
     "genres": [
       {
         "id": 10,
@@ -5008,12 +4682,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co209n.jpg"
     },
     "first_release_date": "2008",
-    "franchises": [
-      {
-        "id": 729,
-        "name": "Need for Speed"
-      }
-    ],
     "genres": [
       {
         "id": 10,
@@ -5068,12 +4736,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co209o.jpg"
     },
     "first_release_date": "2009",
-    "franchises": [
-      {
-        "id": 729,
-        "name": "Need for Speed"
-      }
-    ],
     "genres": [
       {
         "id": 10,
@@ -5124,12 +4786,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co20a9.jpg"
     },
     "first_release_date": "2010",
-    "franchises": [
-      {
-        "id": 729,
-        "name": "Need for Speed"
-      }
-    ],
     "genres": [
       {
         "id": 10,
@@ -5179,12 +4835,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2h9s.jpg"
     },
     "first_release_date": "2010",
-    "franchises": [
-      {
-        "id": 729,
-        "name": "Need for Speed"
-      }
-    ],
     "genres": [
       {
         "id": 10,
@@ -5372,12 +5022,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1u6n.jpg"
     },
     "first_release_date": "2008",
-    "franchises": [
-      {
-        "id": 834,
-        "name": "Devil May Cry"
-      }
-    ],
     "genres": [
       {
         "id": 25,
@@ -5428,12 +5072,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6t4d.jpg"
     },
     "first_release_date": "2010",
-    "franchises": [
-      {
-        "id": 571,
-        "name": "Assassin's Creed"
-      }
-    ],
     "genres": [
       {
         "id": 9,
@@ -5516,16 +5154,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co20xa.jpg"
     },
     "first_release_date": "2011",
-    "franchise": {
-      "id": 1,
-      "name": "Star Wars"
-    },
-    "franchises": [
-      {
-        "id": 1,
-        "name": "Star Wars"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -5582,12 +5210,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobpn7.jpg"
     },
     "first_release_date": "2009",
-    "franchises": [
-      {
-        "id": 1572,
-        "name": "League of Legends"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -5645,16 +5267,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1tmz.jpg"
     },
     "first_release_date": "2003",
-    "franchise": {
-      "id": 1,
-      "name": "Star Wars"
-    },
-    "franchises": [
-      {
-        "id": 1,
-        "name": "Star Wars"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -5791,16 +5403,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1qrj.jpg"
     },
     "first_release_date": "2004",
-    "franchise": {
-      "id": 1,
-      "name": "Star Wars"
-    },
-    "franchises": [
-      {
-        "id": 1,
-        "name": "Star Wars"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -5889,12 +5491,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co20mc.jpg"
     },
     "first_release_date": "2011",
-    "franchises": [
-      {
-        "id": 750,
-        "name": "Mortal Kombat"
-      }
-    ],
     "genres": [
       {
         "id": 4,
@@ -5945,12 +5541,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2l1u.jpg"
     },
     "first_release_date": "2012",
-    "franchises": [
-      {
-        "id": 2417,
-        "name": "Diablo"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -6017,12 +5607,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/coa77e.jpg"
     },
     "first_release_date": "2011",
-    "franchises": [
-      {
-        "id": 950,
-        "name": "Minecraft"
-      }
-    ],
     "genres": [
       {
         "id": 13,
@@ -6126,16 +5710,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2l7z.jpg"
     },
     "first_release_date": "2004",
-    "franchise": {
-      "id": 135,
-      "name": "Warcraft"
-    },
-    "franchises": [
-      {
-        "id": 135,
-        "name": "Warcraft"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -6232,12 +5806,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3ggo.jpg"
     },
     "first_release_date": "1996",
-    "franchises": [
-      {
-        "id": 2417,
-        "name": "Diablo"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -6316,12 +5884,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3gfq.jpg"
     },
     "first_release_date": "2000",
-    "franchises": [
-      {
-        "id": 2417,
-        "name": "Diablo"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -6368,12 +5930,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1rcf.jpg"
     },
     "first_release_date": "2009",
-    "franchises": [
-      {
-        "id": 571,
-        "name": "Assassin's Creed"
-      }
-    ],
     "genres": [
       {
         "id": 8,
@@ -6435,12 +5991,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1rrw.jpg"
     },
     "first_release_date": "2007",
-    "franchises": [
-      {
-        "id": 571,
-        "name": "Assassin's Creed"
-      }
-    ],
     "genres": [
       {
         "id": 8,
@@ -6487,16 +6037,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1xup.jpg"
     },
     "first_release_date": "1994",
-    "franchise": {
-      "id": 135,
-      "name": "Warcraft"
-    },
-    "franchises": [
-      {
-        "id": 135,
-        "name": "Warcraft"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -6565,16 +6105,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3wix.jpg"
     },
     "first_release_date": "1995",
-    "franchise": {
-      "id": 135,
-      "name": "Warcraft"
-    },
-    "franchises": [
-      {
-        "id": 135,
-        "name": "Warcraft"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -6654,16 +6184,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1xxt.jpg"
     },
     "first_release_date": "1996",
-    "franchise": {
-      "id": 135,
-      "name": "Warcraft"
-    },
-    "franchises": [
-      {
-        "id": 135,
-        "name": "Warcraft"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -6736,16 +6256,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1xuq.jpg"
     },
     "first_release_date": "2002",
-    "franchise": {
-      "id": 135,
-      "name": "Warcraft"
-    },
-    "franchises": [
-      {
-        "id": 135,
-        "name": "Warcraft"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -6799,16 +6309,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1xxv.jpg"
     },
     "first_release_date": "2003",
-    "franchise": {
-      "id": 135,
-      "name": "Warcraft"
-    },
-    "franchises": [
-      {
-        "id": 135,
-        "name": "Warcraft"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -6862,12 +6362,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9ck7.jpg"
     },
     "first_release_date": "2001",
-    "franchises": [
-      {
-        "id": 834,
-        "name": "Devil May Cry"
-      }
-    ],
     "genres": [
       {
         "id": 25,
@@ -6910,12 +6404,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3diu.jpg"
     },
     "first_release_date": "2003",
-    "franchises": [
-      {
-        "id": 834,
-        "name": "Devil May Cry"
-      }
-    ],
     "genres": [
       {
         "id": 25,
@@ -6958,12 +6446,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1u6u.jpg"
     },
     "first_release_date": "2005",
-    "franchises": [
-      {
-        "id": 834,
-        "name": "Devil May Cry"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -7010,16 +6492,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co25xw.jpg"
     },
     "first_release_date": "2010",
-    "franchise": {
-      "id": 1,
-      "name": "Star Wars"
-    },
-    "franchises": [
-      {
-        "id": 1,
-        "name": "Star Wars"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -7089,20 +6561,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6up6.jpg"
     },
     "first_release_date": "2009",
-    "franchise": {
-      "id": 2,
-      "name": "Indiana Jones"
-    },
-    "franchises": [
-      {
-        "id": 2,
-        "name": "Indiana Jones"
-      },
-      {
-        "id": 51,
-        "name": "LEGO"
-      }
-    ],
     "genres": [
       {
         "id": 8,
@@ -7183,16 +6641,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7nlh.jpg"
     },
     "first_release_date": "2001",
-    "franchise": {
-      "id": 1,
-      "name": "Star Wars"
-    },
-    "franchises": [
-      {
-        "id": 1,
-        "name": "Star Wars"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -7264,16 +6712,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2h1z.jpg"
     },
     "first_release_date": "2004",
-    "franchise": {
-      "id": 1,
-      "name": "Star Wars"
-    },
-    "franchises": [
-      {
-        "id": 1,
-        "name": "Star Wars"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -7338,16 +6776,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/cob1g4.jpg"
     },
     "first_release_date": "2005",
-    "franchise": {
-      "id": 1,
-      "name": "Star Wars"
-    },
-    "franchises": [
-      {
-        "id": 1,
-        "name": "Star Wars"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -7419,16 +6847,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1nrw.jpg"
     },
     "first_release_date": "2006",
-    "franchise": {
-      "id": 1,
-      "name": "Star Wars"
-    },
-    "franchises": [
-      {
-        "id": 1,
-        "name": "Star Wars"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -7482,16 +6900,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2au4.jpg"
     },
     "first_release_date": "2005",
-    "franchise": {
-      "id": 1,
-      "name": "Star Wars"
-    },
-    "franchises": [
-      {
-        "id": 1,
-        "name": "Star Wars"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -7564,16 +6972,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co25xt.jpg"
     },
     "first_release_date": "1997",
-    "franchise": {
-      "id": 1,
-      "name": "Star Wars"
-    },
-    "franchises": [
-      {
-        "id": 1,
-        "name": "Star Wars"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -7605,16 +7003,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1y67.jpg"
     },
     "first_release_date": "2002",
-    "franchise": {
-      "id": 1,
-      "name": "Star Wars"
-    },
-    "franchises": [
-      {
-        "id": 1,
-        "name": "Star Wars"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -7712,16 +7100,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5c44.jpg"
     },
     "first_release_date": "2003",
-    "franchise": {
-      "id": 1,
-      "name": "Star Wars"
-    },
-    "franchises": [
-      {
-        "id": 1,
-        "name": "Star Wars"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -7808,16 +7186,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3wj7.jpg"
     },
     "first_release_date": "1999",
-    "franchise": {
-      "id": 1,
-      "name": "Star Wars"
-    },
-    "franchises": [
-      {
-        "id": 1,
-        "name": "Star Wars"
-      }
-    ],
     "genres": [
       {
         "id": 10,
@@ -7894,16 +7262,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4zdy.jpg"
     },
     "first_release_date": "1995",
-    "franchise": {
-      "id": 1,
-      "name": "Star Wars"
-    },
-    "franchises": [
-      {
-        "id": 1,
-        "name": "Star Wars"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -7983,16 +7341,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/coba6s.jpg"
     },
     "first_release_date": "1999",
-    "franchise": {
-      "id": 1,
-      "name": "Star Wars"
-    },
-    "franchises": [
-      {
-        "id": 1,
-        "name": "Star Wars"
-      }
-    ],
     "genres": [
       {
         "id": 31,
@@ -8035,16 +7383,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7k18.jpg"
     },
     "first_release_date": "1998",
-    "franchise": {
-      "id": 1,
-      "name": "Star Wars"
-    },
-    "franchises": [
-      {
-        "id": 1,
-        "name": "Star Wars"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -8108,16 +7446,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co25xv.jpg"
     },
     "first_release_date": "1996",
-    "franchise": {
-      "id": 1,
-      "name": "Star Wars"
-    },
-    "franchises": [
-      {
-        "id": 1,
-        "name": "Star Wars"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -8278,16 +7606,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6ys2.jpg"
     },
     "first_release_date": "1992",
-    "franchise": {
-      "id": 2,
-      "name": "Indiana Jones"
-    },
-    "franchises": [
-      {
-        "id": 2,
-        "name": "Indiana Jones"
-      }
-    ],
     "genres": [
       {
         "id": 2,
@@ -8357,16 +7675,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co82vl.jpg"
     },
     "first_release_date": "1989",
-    "franchise": {
-      "id": 2,
-      "name": "Indiana Jones"
-    },
-    "franchises": [
-      {
-        "id": 2,
-        "name": "Indiana Jones"
-      }
-    ],
     "genres": [
       {
         "id": 2,
@@ -8444,20 +7752,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4w36.jpg"
     },
     "first_release_date": "2008",
-    "franchise": {
-      "id": 2,
-      "name": "Indiana Jones"
-    },
-    "franchises": [
-      {
-        "id": 2,
-        "name": "Indiana Jones"
-      },
-      {
-        "id": 51,
-        "name": "LEGO"
-      }
-    ],
     "genres": [
       {
         "id": 8,
@@ -8542,20 +7836,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2hgu.jpg"
     },
     "first_release_date": "2006",
-    "franchise": {
-      "id": 1,
-      "name": "Star Wars"
-    },
-    "franchises": [
-      {
-        "id": 1,
-        "name": "Star Wars"
-      },
-      {
-        "id": 51,
-        "name": "LEGO"
-      }
-    ],
     "genres": [
       {
         "id": 8,
@@ -8825,12 +8105,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co30yv.jpg"
     },
     "first_release_date": "1993",
-    "franchises": [
-      {
-        "id": 2281,
-        "name": "Sam & Max"
-      }
-    ],
     "genres": [
       {
         "id": 2,
@@ -9052,20 +8326,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1syd.jpg"
     },
     "first_release_date": "2006",
-    "franchise": {
-      "id": 43,
-      "name": "Dungeons & Dragons"
-    },
-    "franchises": [
-      {
-        "id": 43,
-        "name": "Dungeons & Dragons"
-      },
-      {
-        "id": 6951,
-        "name": "Forgotten Realms"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -9126,16 +8386,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1t13.jpg"
     },
     "first_release_date": "2002",
-    "franchises": [
-      {
-        "id": 43,
-        "name": "Dungeons & Dragons"
-      },
-      {
-        "id": 6951,
-        "name": "Forgotten Realms"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -9344,12 +8594,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8j9a.jpg"
     },
     "first_release_date": "2000",
-    "franchises": [
-      {
-        "id": 979,
-        "name": "The Sims"
-      }
-    ],
     "genres": [
       {
         "id": 13,
@@ -9417,12 +8661,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3dm5.jpg"
     },
     "first_release_date": "2004",
-    "franchises": [
-      {
-        "id": 979,
-        "name": "The Sims"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -9480,16 +8718,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1xw6.jpg"
     },
     "first_release_date": "2007",
-    "franchise": {
-      "id": 135,
-      "name": "Warcraft"
-    },
-    "franchises": [
-      {
-        "id": 135,
-        "name": "Warcraft"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -9529,16 +8757,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1xv9.jpg"
     },
     "first_release_date": "2008",
-    "franchise": {
-      "id": 135,
-      "name": "Warcraft"
-    },
-    "franchises": [
-      {
-        "id": 135,
-        "name": "Warcraft"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -9574,16 +8792,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1xvb.jpg"
     },
     "first_release_date": "2010",
-    "franchise": {
-      "id": 135,
-      "name": "Warcraft"
-    },
-    "franchises": [
-      {
-        "id": 135,
-        "name": "Warcraft"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -9626,12 +8834,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9n6m.jpg"
     },
     "first_release_date": "1998",
-    "franchises": [
-      {
-        "id": 589,
-        "name": "starcraft"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -9671,12 +8873,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/coag8n.jpg"
     },
     "first_release_date": "1998",
-    "franchises": [
-      {
-        "id": 425,
-        "name": "Half-Life"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -9742,12 +8938,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co802y.jpg"
     },
     "first_release_date": "1999",
-    "franchises": [
-      {
-        "id": 425,
-        "name": "Half-Life"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -9809,12 +8999,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1nmw.jpg"
     },
     "first_release_date": "2004",
-    "franchises": [
-      {
-        "id": 425,
-        "name": "Half-Life"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -9990,12 +9174,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1y96.jpg"
     },
     "first_release_date": "1993",
-    "franchises": [
-      {
-        "id": 5771,
-        "name": "Myst"
-      }
-    ],
     "genres": [
       {
         "id": 2,
@@ -10182,16 +9360,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1o4e.jpg"
     },
     "first_release_date": "1999",
-    "franchises": [
-      {
-        "id": 1017,
-        "name": "Sim"
-      },
-      {
-        "id": 1974,
-        "name": "SimCity"
-      }
-    ],
     "genres": [
       {
         "id": 13,
@@ -10249,12 +9417,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2jlf.jpg"
     },
     "first_release_date": "1997",
-    "franchises": [
-      {
-        "id": 5771,
-        "name": "Myst"
-      }
-    ],
     "genres": [
       {
         "id": 2,
@@ -10380,12 +9542,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1tnn.jpg"
     },
     "first_release_date": "2010",
-    "franchises": [
-      {
-        "id": 589,
-        "name": "starcraft"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -10474,12 +9630,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co81pl.jpg"
     },
     "first_release_date": "2000",
-    "franchises": [
-      {
-        "id": 425,
-        "name": "Half-Life"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -10575,12 +9725,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co28g8.jpg"
     },
     "first_release_date": "2013",
-    "franchises": [
-      {
-        "id": 1064,
-        "name": "X-COM"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -10639,16 +9783,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/coar4c.jpg"
     },
     "first_release_date": "2000",
-    "franchise": {
-      "id": 12,
-      "name": "Command & Conquer"
-    },
-    "franchises": [
-      {
-        "id": 12,
-        "name": "Command & Conquer"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -10691,12 +9825,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3gfn.jpg"
     },
     "first_release_date": "2001",
-    "franchises": [
-      {
-        "id": 2417,
-        "name": "Diablo"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -10743,12 +9871,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2mw2.jpg"
     },
     "first_release_date": "2007",
-    "franchises": [
-      {
-        "id": 425,
-        "name": "Half-Life"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -10814,12 +9936,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1mp7.jpg"
     },
     "first_release_date": "2004",
-    "franchises": [
-      {
-        "id": 491,
-        "name": "The Chronicles of Riddick"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -11015,16 +10131,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1wep.jpg"
     },
     "first_release_date": "2004",
-    "franchise": {
-      "id": 6,
-      "name": "Warhammer 40,000"
-    },
-    "franchises": [
-      {
-        "id": 6,
-        "name": "Warhammer 40,000"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -11067,12 +10173,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/coavu6.jpg"
     },
     "first_release_date": "2009",
-    "franchises": [
-      {
-        "id": 979,
-        "name": "The Sims"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -11130,12 +10230,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2k3b.jpg"
     },
     "first_release_date": "1999",
-    "franchises": [
-      {
-        "id": 5741,
-        "name": "Unreal"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -11211,12 +10305,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9er6.jpg"
     },
     "first_release_date": "1998",
-    "franchises": [
-      {
-        "id": 5741,
-        "name": "Unreal"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -11395,12 +10483,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2nal.jpg"
     },
     "first_release_date": "2005",
-    "franchises": [
-      {
-        "id": 1036,
-        "name": "Battlefield"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -11503,12 +10585,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1v3n.jpg"
     },
     "first_release_date": "2004",
-    "franchises": [
-      {
-        "id": 798,
-        "name": "Doom"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -11580,12 +10656,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1xzr.jpg"
     },
     "first_release_date": "2001",
-    "franchises": [
-      {
-        "id": 1277,
-        "name": "Wolfenstein"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -11826,12 +10896,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2604.jpg"
     },
     "first_release_date": "1992",
-    "franchises": [
-      {
-        "id": 1277,
-        "name": "Wolfenstein"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -12217,16 +11281,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1rjp.jpg"
     },
     "first_release_date": "2005",
-    "franchise": {
-      "id": 10,
-      "name": "Sid Meier"
-    },
-    "franchises": [
-      {
-        "id": 10,
-        "name": "Sid Meier"
-      }
-    ],
     "genres": [
       {
         "id": 13,
@@ -12291,16 +11345,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1nx0.jpg"
     },
     "first_release_date": "1996",
-    "franchise": {
-      "id": 12,
-      "name": "Command & Conquer"
-    },
-    "franchises": [
-      {
-        "id": 12,
-        "name": "Command & Conquer"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -12387,12 +11431,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2on1.jpg"
     },
     "first_release_date": "2007",
-    "franchises": [
-      {
-        "id": 727,
-        "name": "Crysis"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -12832,16 +11870,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2jvj.jpg"
     },
     "first_release_date": "2001",
-    "franchise": {
-      "id": 10,
-      "name": "Sid Meier"
-    },
-    "franchises": [
-      {
-        "id": 10,
-        "name": "Sid Meier"
-      }
-    ],
     "genres": [
       {
         "id": 13,
@@ -12913,12 +11941,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6iip.jpg"
     },
     "first_release_date": "1994",
-    "franchises": [
-      {
-        "id": 798,
-        "name": "Doom"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -13026,12 +12048,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3xuh.jpg"
     },
     "first_release_date": "2005",
-    "franchises": [
-      {
-        "id": 1158,
-        "name": "Police Quest"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -13099,12 +12115,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co28mg.jpg"
     },
     "first_release_date": "2002",
-    "franchises": [
-      {
-        "id": 2853,
-        "name": "Ragnarok Online"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -13140,12 +12150,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/coa4s4.jpg"
     },
     "first_release_date": "2007",
-    "franchises": [
-      {
-        "id": 6885,
-        "name": "S.T.A.L.K.E.R."
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -13228,16 +12232,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1qqd.jpg"
     },
     "first_release_date": "2007",
-    "franchise": {
-      "id": 12,
-      "name": "Command & Conquer"
-    },
-    "franchises": [
-      {
-        "id": 12,
-        "name": "Command & Conquer"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -13299,12 +12293,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1zz1.jpg"
     },
     "first_release_date": "1997",
-    "franchises": [
-      {
-        "id": 685,
-        "name": "Blade Runner"
-      }
-    ],
     "genres": [
       {
         "id": 2,
@@ -13700,16 +12688,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1o4d.jpg"
     },
     "first_release_date": "1993",
-    "franchises": [
-      {
-        "id": 1017,
-        "name": "Sim"
-      },
-      {
-        "id": 1974,
-        "name": "SimCity"
-      }
-    ],
     "genres": [
       {
         "id": 13,
@@ -14130,12 +13108,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1xb1.jpg"
     },
     "first_release_date": "2004",
-    "franchises": [
-      {
-        "id": 1036,
-        "name": "Battlefield"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -14174,12 +13146,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2on4.jpg"
     },
     "first_release_date": "2008",
-    "franchises": [
-      {
-        "id": 727,
-        "name": "Crysis"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -14294,12 +13260,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9c5r.jpg"
     },
     "first_release_date": "2006",
-    "franchises": [
-      {
-        "id": 425,
-        "name": "Half-Life"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -14426,16 +13386,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co88lw.jpg"
     },
     "first_release_date": "1999",
-    "franchise": {
-      "id": 12,
-      "name": "Command & Conquer"
-    },
-    "franchises": [
-      {
-        "id": 12,
-        "name": "Command & Conquer"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -14478,12 +13428,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3jh0.jpg"
     },
     "first_release_date": "2001",
-    "franchises": [
-      {
-        "id": 133,
-        "name": "Harry Potter"
-      }
-    ],
     "genres": [
       {
         "id": 8,
@@ -14530,12 +13474,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1y7x.jpg"
     },
     "first_release_date": "1996",
-    "franchises": [
-      {
-        "id": 2763,
-        "name": "Duke Nukem"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -14607,12 +13545,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1xbu.jpg"
     },
     "first_release_date": "2011",
-    "franchises": [
-      {
-        "id": 1036,
-        "name": "Battlefield"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -14659,12 +13591,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1xbb.jpg"
     },
     "first_release_date": "2006",
-    "franchises": [
-      {
-        "id": 1036,
-        "name": "Battlefield"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -14752,12 +13678,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1nv3.jpg"
     },
     "first_release_date": "2009",
-    "franchises": [
-      {
-        "id": 1036,
-        "name": "Battlefield"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -14800,12 +13720,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1xbi.jpg"
     },
     "first_release_date": "2010",
-    "franchises": [
-      {
-        "id": 1036,
-        "name": "Battlefield"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -15060,20 +13974,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6pib.jpg"
     },
     "first_release_date": "1985",
-    "franchise": {
-      "id": 24,
-      "name": "Mario Bros."
-    },
-    "franchises": [
-      {
-        "id": 24,
-        "name": "Mario Bros."
-      },
-      {
-        "id": 845,
-        "name": "Mario"
-      }
-    ],
     "genres": [
       {
         "id": 8,
@@ -15161,16 +14061,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6nz1.jpg"
     },
     "first_release_date": "2016",
-    "franchise": {
-      "id": 4,
-      "name": "Final Fantasy"
-    },
-    "franchises": [
-      {
-        "id": 4,
-        "name": "Final Fantasy"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -15318,12 +14208,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobj6b.jpg"
     },
     "first_release_date": "1995",
-    "franchises": [
-      {
-        "id": 458,
-        "name": "Might and Magic"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -15392,12 +14276,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3w52.jpg"
     },
     "first_release_date": "1996",
-    "franchises": [
-      {
-        "id": 458,
-        "name": "Might and Magic"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -15452,12 +14330,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2a47.jpg"
     },
     "first_release_date": "1999",
-    "franchises": [
-      {
-        "id": 458,
-        "name": "Might and Magic"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -15519,12 +14391,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3g3x.jpg"
     },
     "first_release_date": "1999",
-    "franchises": [
-      {
-        "id": 458,
-        "name": "Might and Magic"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -15582,12 +14448,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3g3v.jpg"
     },
     "first_release_date": "2000",
-    "franchises": [
-      {
-        "id": 458,
-        "name": "Might and Magic"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -15645,12 +14505,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co218u.jpg"
     },
     "first_release_date": "2002",
-    "franchises": [
-      {
-        "id": 458,
-        "name": "Might and Magic"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -15708,12 +14562,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2sms.jpg"
     },
     "first_release_date": "2006",
-    "franchises": [
-      {
-        "id": 458,
-        "name": "Might and Magic"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -15764,12 +14612,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9syc.jpg"
     },
     "first_release_date": "2011",
-    "franchises": [
-      {
-        "id": 458,
-        "name": "Might and Magic"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -15830,12 +14672,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3ogc.jpg"
     },
     "first_release_date": "1987",
-    "franchises": [
-      {
-        "id": 463,
-        "name": "Metal Gear"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -15879,16 +14715,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobpak.jpg"
     },
     "first_release_date": "1998",
-    "franchises": [
-      {
-        "id": 463,
-        "name": "Metal Gear"
-      },
-      {
-        "id": 551,
-        "name": "Metal Gear Solid"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -15943,16 +14769,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5e1c.jpg"
     },
     "first_release_date": "2001",
-    "franchises": [
-      {
-        "id": 463,
-        "name": "Metal Gear"
-      },
-      {
-        "id": 551,
-        "name": "Metal Gear Solid"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -15999,12 +14815,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3whu.jpg"
     },
     "first_release_date": "1990",
-    "franchises": [
-      {
-        "id": 463,
-        "name": "Metal Gear"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -16048,16 +14858,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2l1t.jpg"
     },
     "first_release_date": "2013",
-    "franchises": [
-      {
-        "id": 463,
-        "name": "Metal Gear"
-      },
-      {
-        "id": 551,
-        "name": "Metal Gear Solid"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -16127,16 +14927,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ei5.jpg"
     },
     "first_release_date": "2004",
-    "franchises": [
-      {
-        "id": 463,
-        "name": "Metal Gear"
-      },
-      {
-        "id": 551,
-        "name": "Metal Gear Solid"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -16183,16 +14973,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5eju.jpg"
     },
     "first_release_date": "2008",
-    "franchises": [
-      {
-        "id": 463,
-        "name": "Metal Gear"
-      },
-      {
-        "id": 551,
-        "name": "Metal Gear Solid"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -16239,16 +15019,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2qok.jpg"
     },
     "first_release_date": "2006",
-    "franchises": [
-      {
-        "id": 463,
-        "name": "Metal Gear"
-      },
-      {
-        "id": 551,
-        "name": "Metal Gear Solid"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -16302,16 +15072,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/coawb5.jpg"
     },
     "first_release_date": "2010",
-    "franchises": [
-      {
-        "id": 463,
-        "name": "Metal Gear"
-      },
-      {
-        "id": 551,
-        "name": "Metal Gear Solid"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -16358,16 +15118,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1tr9.jpg"
     },
     "first_release_date": "2011",
-    "franchise": {
-      "id": 4,
-      "name": "Final Fantasy"
-    },
-    "franchises": [
-      {
-        "id": 4,
-        "name": "Final Fantasy"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -16447,16 +15197,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2xv8.jpg"
     },
     "first_release_date": "1987",
-    "franchise": {
-      "id": 4,
-      "name": "Final Fantasy"
-    },
-    "franchises": [
-      {
-        "id": 4,
-        "name": "Final Fantasy"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -16529,16 +15269,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobl9m.jpg"
     },
     "first_release_date": "2013",
-    "franchise": {
-      "id": 4,
-      "name": "Final Fantasy"
-    },
-    "franchises": [
-      {
-        "id": 4,
-        "name": "Final Fantasy"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -16632,16 +15362,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2y6s.jpg"
     },
     "first_release_date": "1991",
-    "franchise": {
-      "id": 4,
-      "name": "Final Fantasy"
-    },
-    "franchises": [
-      {
-        "id": 4,
-        "name": "Final Fantasy"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -16681,16 +15401,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/coboys.jpg"
     },
     "first_release_date": "2009",
-    "franchise": {
-      "id": 4,
-      "name": "Final Fantasy"
-    },
-    "franchises": [
-      {
-        "id": 4,
-        "name": "Final Fantasy"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -16748,16 +15458,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co205i.jpg"
     },
     "first_release_date": "2008",
-    "franchise": {
-      "id": 4,
-      "name": "Final Fantasy"
-    },
-    "franchises": [
-      {
-        "id": 4,
-        "name": "Final Fantasy"
-      }
-    ],
     "genres": [
       {
         "id": 4,
@@ -16808,16 +15508,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co60u4.jpg"
     },
     "first_release_date": "2006",
-    "franchise": {
-      "id": 4,
-      "name": "Final Fantasy"
-    },
-    "franchises": [
-      {
-        "id": 4,
-        "name": "Final Fantasy"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -16860,16 +15550,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3rhx.jpg"
     },
     "first_release_date": "2006",
-    "franchise": {
-      "id": 4,
-      "name": "Final Fantasy"
-    },
-    "franchises": [
-      {
-        "id": 4,
-        "name": "Final Fantasy"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -16912,16 +15592,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2y76.jpg"
     },
     "first_release_date": "2007",
-    "franchise": {
-      "id": 4,
-      "name": "Final Fantasy"
-    },
-    "franchises": [
-      {
-        "id": 4,
-        "name": "Final Fantasy"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -16964,16 +15634,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2x4s.jpg"
     },
     "first_release_date": "2003",
-    "franchise": {
-      "id": 4,
-      "name": "Final Fantasy"
-    },
-    "franchises": [
-      {
-        "id": 4,
-        "name": "Final Fantasy"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -17030,16 +15690,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/cob8fn.jpg"
     },
     "first_release_date": "2003",
-    "franchise": {
-      "id": 4,
-      "name": "Final Fantasy"
-    },
-    "franchises": [
-      {
-        "id": 4,
-        "name": "Final Fantasy"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -17104,16 +15754,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2y0b.jpg"
     },
     "first_release_date": "1992",
-    "franchise": {
-      "id": 4,
-      "name": "Final Fantasy"
-    },
-    "franchises": [
-      {
-        "id": 4,
-        "name": "Final Fantasy"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -17182,16 +15822,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1tr1.jpg"
     },
     "first_release_date": "2001",
-    "franchise": {
-      "id": 4,
-      "name": "Final Fantasy"
-    },
-    "franchises": [
-      {
-        "id": 4,
-        "name": "Final Fantasy"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -17241,16 +15871,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9p6d.jpg"
     },
     "first_release_date": "1992",
-    "franchise": {
-      "id": 4,
-      "name": "Final Fantasy"
-    },
-    "franchises": [
-      {
-        "id": 4,
-        "name": "Final Fantasy"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -17297,16 +15917,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2unc.jpg"
     },
     "first_release_date": "2000",
-    "franchise": {
-      "id": 4,
-      "name": "Final Fantasy"
-    },
-    "franchises": [
-      {
-        "id": 4,
-        "name": "Final Fantasy"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -17378,16 +15988,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6xs1.jpg"
     },
     "first_release_date": "1999",
-    "franchise": {
-      "id": 51,
-      "name": "LEGO"
-    },
-    "franchises": [
-      {
-        "id": 51,
-        "name": "LEGO"
-      }
-    ],
     "genres": [
       {
         "id": 10,
@@ -17434,12 +16034,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co20bp.jpg"
     },
     "first_release_date": "1996",
-    "franchises": [
-      {
-        "id": 29,
-        "name": "Resident Evil"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -17493,16 +16087,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2z7d.jpg"
     },
     "first_release_date": "1999",
-    "franchise": {
-      "id": 4,
-      "name": "Final Fantasy"
-    },
-    "franchises": [
-      {
-        "id": 4,
-        "name": "Final Fantasy"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -17571,16 +16155,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaq5k.jpg"
     },
     "first_release_date": "1994",
-    "franchise": {
-      "id": 4,
-      "name": "Final Fantasy"
-    },
-    "franchises": [
-      {
-        "id": 4,
-        "name": "Final Fantasy"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -17639,16 +16213,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2kx2.jpg"
     },
     "first_release_date": "1997",
-    "franchise": {
-      "id": 4,
-      "name": "Final Fantasy"
-    },
-    "franchises": [
-      {
-        "id": 4,
-        "name": "Final Fantasy"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -17706,16 +16270,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2yx4.jpg"
     },
     "first_release_date": "1997",
-    "franchise": {
-      "id": 4,
-      "name": "Final Fantasy"
-    },
-    "franchises": [
-      {
-        "id": 4,
-        "name": "Final Fantasy"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -17904,12 +16458,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1tp7.jpg"
     },
     "first_release_date": "2007",
-    "franchises": [
-      {
-        "id": 2121,
-        "name": "Uncharted"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -17956,12 +16504,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2rpy.jpg"
     },
     "first_release_date": "2011",
-    "franchises": [
-      {
-        "id": 977,
-        "name": "Total War"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -18031,12 +16573,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8bqs.jpg"
     },
     "first_release_date": "2009",
-    "franchises": [
-      {
-        "id": 491,
-        "name": "The Chronicles of Riddick"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -18169,12 +16705,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co86jc.jpg"
     },
     "first_release_date": "2000",
-    "franchises": [
-      {
-        "id": 977,
-        "name": "Total War"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -18232,12 +16762,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2il9.jpg"
     },
     "first_release_date": "2002",
-    "franchises": [
-      {
-        "id": 977,
-        "name": "Total War"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -18288,12 +16812,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1zt9.jpg"
     },
     "first_release_date": "2004",
-    "franchises": [
-      {
-        "id": 977,
-        "name": "Total War"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -18374,12 +16892,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8xje.jpg"
     },
     "first_release_date": "2006",
-    "franchises": [
-      {
-        "id": 977,
-        "name": "Total War"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -18449,12 +16961,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co214k.jpg"
     },
     "first_release_date": "2009",
-    "franchises": [
-      {
-        "id": 977,
-        "name": "Total War"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -18528,12 +17034,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co21dg.jpg"
     },
     "first_release_date": "2010",
-    "franchises": [
-      {
-        "id": 977,
-        "name": "Total War"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -18659,12 +17159,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9n6r.jpg"
     },
     "first_release_date": "1998",
-    "franchises": [
-      {
-        "id": 589,
-        "name": "starcraft"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -18718,12 +17212,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co52n5.jpg"
     },
     "first_release_date": "2013",
-    "franchises": [
-      {
-        "id": 589,
-        "name": "starcraft"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -18763,12 +17251,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co52n6.jpg"
     },
     "first_release_date": "2015",
-    "franchises": [
-      {
-        "id": 589,
-        "name": "starcraft"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -18896,16 +17378,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1qu8.jpg"
     },
     "first_release_date": "2005",
-    "franchise": {
-      "id": 6,
-      "name": "Warhammer 40,000"
-    },
-    "franchises": [
-      {
-        "id": 6,
-        "name": "Warhammer 40,000"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -18948,16 +17420,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3lu2.jpg"
     },
     "first_release_date": "2009",
-    "franchise": {
-      "id": 6,
-      "name": "Warhammer 40,000"
-    },
-    "franchises": [
-      {
-        "id": 6,
-        "name": "Warhammer 40,000"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -19015,16 +17477,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3lem.jpg"
     },
     "first_release_date": "2006",
-    "franchise": {
-      "id": 6,
-      "name": "Warhammer 40,000"
-    },
-    "franchises": [
-      {
-        "id": 6,
-        "name": "Warhammer 40,000"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -19067,16 +17519,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1quo.jpg"
     },
     "first_release_date": "2008",
-    "franchise": {
-      "id": 6,
-      "name": "Warhammer 40,000"
-    },
-    "franchises": [
-      {
-        "id": 6,
-        "name": "Warhammer 40,000"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -19183,12 +17625,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1tnw.jpg"
     },
     "first_release_date": "2011",
-    "franchises": [
-      {
-        "id": 456,
-        "name": "The Elder Scrolls"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -19239,12 +17675,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1xbe.jpg"
     },
     "first_release_date": "2008",
-    "franchises": [
-      {
-        "id": 1036,
-        "name": "Battlefield"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -19287,16 +17717,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5eg1.jpg"
     },
     "first_release_date": "2002",
-    "franchises": [
-      {
-        "id": 463,
-        "name": "Metal Gear"
-      },
-      {
-        "id": 551,
-        "name": "Metal Gear Solid"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -19358,16 +17778,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co25xx.jpg"
     },
     "first_release_date": "2008",
-    "franchise": {
-      "id": 1,
-      "name": "Star Wars"
-    },
-    "franchises": [
-      {
-        "id": 1,
-        "name": "Star Wars"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -19566,12 +17976,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1wy4.jpg"
     },
     "first_release_date": "2011",
-    "franchises": [
-      {
-        "id": 452,
-        "name": "The Witcher"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -19654,16 +18058,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1vd6.jpg"
     },
     "first_release_date": "2005",
-    "franchises": [
-      {
-        "id": 463,
-        "name": "Metal Gear"
-      },
-      {
-        "id": 551,
-        "name": "Metal Gear Solid"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -19717,12 +18111,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2vye.jpg"
     },
     "first_release_date": "1999",
-    "franchises": [
-      {
-        "id": 554,
-        "name": "Silent Hill"
-      }
-    ],
     "genres": [
       {
         "id": 9,
@@ -19773,12 +18161,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2vyg.jpg"
     },
     "first_release_date": "2001",
-    "franchises": [
-      {
-        "id": 554,
-        "name": "Silent Hill"
-      }
-    ],
     "genres": [
       {
         "id": 9,
@@ -19821,12 +18203,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3kol.jpg"
     },
     "first_release_date": "2003",
-    "franchises": [
-      {
-        "id": 554,
-        "name": "Silent Hill"
-      }
-    ],
     "genres": [
       {
         "id": 9,
@@ -19873,12 +18249,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2vyk.jpg"
     },
     "first_release_date": "2004",
-    "franchises": [
-      {
-        "id": 554,
-        "name": "Silent Hill"
-      }
-    ],
     "genres": [
       {
         "id": 31,
@@ -19929,12 +18299,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2vyq.jpg"
     },
     "first_release_date": "2007",
-    "franchises": [
-      {
-        "id": 554,
-        "name": "Silent Hill"
-      }
-    ],
     "genres": [
       {
         "id": 9,
@@ -19981,12 +18345,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2vyn.jpg"
     },
     "first_release_date": "2008",
-    "franchises": [
-      {
-        "id": 554,
-        "name": "Silent Hill"
-      }
-    ],
     "genres": [
       {
         "id": 9,
@@ -20037,12 +18395,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2vyp.jpg"
     },
     "first_release_date": "2009",
-    "franchises": [
-      {
-        "id": 554,
-        "name": "Silent Hill"
-      }
-    ],
     "genres": [
       {
         "id": 31,
@@ -20089,12 +18441,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2vyo.jpg"
     },
     "first_release_date": "2012",
-    "franchises": [
-      {
-        "id": 554,
-        "name": "Silent Hill"
-      }
-    ],
     "genres": [
       {
         "id": 31,
@@ -20194,12 +18540,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2f1v.jpg"
     },
     "first_release_date": "2011",
-    "franchises": [
-      {
-        "id": 2763,
-        "name": "Duke Nukem"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -20303,12 +18643,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2slv.jpg"
     },
     "first_release_date": "2010",
-    "franchises": [
-      {
-        "id": 895,
-        "name": "Castlevania"
-      }
-    ],
     "genres": [
       {
         "id": 25,
@@ -20373,12 +18707,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2a21.jpg"
     },
     "first_release_date": "2011",
-    "franchises": [
-      {
-        "id": 7084,
-        "name": "Gears of War"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -20516,12 +18844,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1rd6.jpg"
     },
     "first_release_date": "2010",
-    "franchises": [
-      {
-        "id": 1344,
-        "name": "Metro"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -20637,12 +18959,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co20tx.jpg"
     },
     "first_release_date": "2009",
-    "franchises": [
-      {
-        "id": 808,
-        "name": "Borderlands"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -20740,12 +19056,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3koi.jpg"
     },
     "first_release_date": "2010",
-    "franchises": [
-      {
-        "id": 2098,
-        "name": "God of War"
-      }
-    ],
     "genres": [
       {
         "id": 25,
@@ -20788,20 +19098,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1voj.jpg"
     },
     "first_release_date": "2009",
-    "franchise": {
-      "id": 5,
-      "name": "Batman"
-    },
-    "franchises": [
-      {
-        "id": 5,
-        "name": "Batman"
-      },
-      {
-        "id": 44,
-        "name": "DC Comics"
-      }
-    ],
     "genres": [
       {
         "id": 25,
@@ -20878,16 +19174,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1voh.jpg"
     },
     "first_release_date": "2011",
-    "franchise": {
-      "id": 5,
-      "name": "Batman"
-    },
-    "franchises": [
-      {
-        "id": 5,
-        "name": "Batman"
-      }
-    ],
     "genres": [
       {
         "id": 25,
@@ -21006,12 +19292,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2071.jpg"
     },
     "first_release_date": "2010",
-    "franchises": [
-      {
-        "id": 1110,
-        "name": "FIFA"
-      }
-    ],
     "genres": [
       {
         "id": 13,
@@ -21120,12 +19400,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1zvv.jpg"
     },
     "first_release_date": "2011",
-    "franchises": [
-      {
-        "id": 457,
-        "name": "Sonic The Hedgehog"
-      }
-    ],
     "genres": [
       {
         "id": 8,
@@ -21315,12 +19589,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1tp8.jpg"
     },
     "first_release_date": "2011",
-    "franchises": [
-      {
-        "id": 2121,
-        "name": "Uncharted"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -21775,12 +20043,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2gdo.jpg"
     },
     "first_release_date": "2011",
-    "franchises": [
-      {
-        "id": 995,
-        "name": "Colin McRae"
-      }
-    ],
     "genres": [
       {
         "id": 10,
@@ -21831,12 +20093,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co20a4.jpg"
     },
     "first_release_date": "2011",
-    "franchises": [
-      {
-        "id": 729,
-        "name": "Need for Speed"
-      }
-    ],
     "genres": [
       {
         "id": 10,
@@ -22002,12 +20258,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1vpd.jpg"
     },
     "first_release_date": "2012",
-    "franchises": [
-      {
-        "id": 1466,
-        "name": "Far Cry"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -22072,12 +20322,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1qrc.jpg"
     },
     "first_release_date": "2012",
-    "franchises": [
-      {
-        "id": 1273,
-        "name": "Hitman"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -22262,12 +20506,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5wrj.jpg"
     },
     "first_release_date": "2011",
-    "franchises": [
-      {
-        "id": 596,
-        "name": "The Legend of Zelda"
-      }
-    ],
     "genres": [
       {
         "id": 9,
@@ -22371,12 +20609,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1xih.jpg"
     },
     "first_release_date": "2011",
-    "franchises": [
-      {
-        "id": 571,
-        "name": "Assassin's Creed"
-      }
-    ],
     "genres": [
       {
         "id": 31,
@@ -22465,12 +20697,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2n12.jpg"
     },
     "first_release_date": "2013",
-    "franchises": [
-      {
-        "id": 1686,
-        "name": "Bioshock"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -22557,12 +20783,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2h9d.jpg"
     },
     "first_release_date": "2013",
-    "franchises": [
-      {
-        "id": 1344,
-        "name": "Metro"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -22621,24 +20841,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2qk0.jpg"
     },
     "first_release_date": "2011",
-    "franchise": {
-      "id": 336,
-      "name": "Pirates of the Caribbean"
-    },
-    "franchises": [
-      {
-        "id": 336,
-        "name": "Pirates of the Caribbean"
-      },
-      {
-        "id": 51,
-        "name": "LEGO"
-      },
-      {
-        "id": 26,
-        "name": "Disney"
-      }
-    ],
     "genres": [
       {
         "id": 8,
@@ -22804,12 +21006,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1wkl.jpg"
     },
     "first_release_date": "2010",
-    "franchises": [
-      {
-        "id": 726,
-        "name": "Call of Duty"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -22974,12 +21170,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8rkr.jpg"
     },
     "first_release_date": "2006",
-    "franchises": [
-      {
-        "id": 7084,
-        "name": "Gears of War"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -23018,12 +21208,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co28gg.jpg"
     },
     "first_release_date": "2008",
-    "franchises": [
-      {
-        "id": 7084,
-        "name": "Gears of War"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -23069,12 +21253,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3ddc.jpg"
     },
     "first_release_date": "2005",
-    "franchises": [
-      {
-        "id": 2098,
-        "name": "God of War"
-      }
-    ],
     "genres": [
       {
         "id": 9,
@@ -23128,12 +21306,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3dio.jpg"
     },
     "first_release_date": "2010",
-    "franchises": [
-      {
-        "id": 2098,
-        "name": "God of War"
-      }
-    ],
     "genres": [
       {
         "id": 25,
@@ -23190,12 +21362,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3dik.jpg"
     },
     "first_release_date": "2007",
-    "franchises": [
-      {
-        "id": 2098,
-        "name": "God of War"
-      }
-    ],
     "genres": [
       {
         "id": 8,
@@ -23249,12 +21415,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3dip.jpg"
     },
     "first_release_date": "2008",
-    "franchises": [
-      {
-        "id": 2098,
-        "name": "God of War"
-      }
-    ],
     "genres": [
       {
         "id": 25,
@@ -23311,16 +21471,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2xiv.jpg"
     },
     "first_release_date": "2010",
-    "franchises": [
-      {
-        "id": 124,
-        "name": "Marvel"
-      },
-      {
-        "id": 151,
-        "name": "Spider-Man"
-      }
-    ],
     "genres": [
       {
         "id": 8,
@@ -23453,16 +21603,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9a64.jpg"
     },
     "first_release_date": "2010",
-    "franchise": {
-      "id": 7,
-      "name": "Transformers"
-    },
-    "franchises": [
-      {
-        "id": 7,
-        "name": "Transformers"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -23628,12 +21768,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3cwt.jpg"
     },
     "first_release_date": "2009",
-    "franchises": [
-      {
-        "id": 726,
-        "name": "Call of Duty"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -23768,20 +21902,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2a29.jpg"
     },
     "first_release_date": "2010",
-    "franchises": [
-      {
-        "id": 23,
-        "name": "Alien"
-      },
-      {
-        "id": 464,
-        "name": "Predator"
-      },
-      {
-        "id": 507,
-        "name": "Alien vs. Predator"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -23828,12 +21948,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2hnp.jpg"
     },
     "first_release_date": "2009",
-    "franchises": [
-      {
-        "id": 995,
-        "name": "Colin McRae"
-      }
-    ],
     "genres": [
       {
         "id": 10,
@@ -23899,12 +22013,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1ypl.jpg"
     },
     "first_release_date": "2010",
-    "franchises": [
-      {
-        "id": 857,
-        "name": "Tom Clancy’s"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -24020,12 +22128,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1tnb.jpg"
     },
     "first_release_date": "2009",
-    "franchises": [
-      {
-        "id": 2121,
-        "name": "Uncharted"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -24072,16 +22174,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2q8p.jpg"
     },
     "first_release_date": "2009",
-    "franchise": {
-      "id": 8,
-      "name": "Ghostbusters"
-    },
-    "franchises": [
-      {
-        "id": 8,
-        "name": "Ghostbusters"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -24146,68 +22238,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2gjz.jpg"
     },
     "first_release_date": "2009",
-    "franchises": [
-      {
-        "id": 124,
-        "name": "Marvel"
-      },
-      {
-        "id": 779,
-        "name": "Daredevil"
-      },
-      {
-        "id": 4278,
-        "name": "Black Panther"
-      },
-      {
-        "id": 520,
-        "name": "Blade"
-      },
-      {
-        "id": 280,
-        "name": "Captain America"
-      },
-      {
-        "id": 6900,
-        "name": "Venom"
-      },
-      {
-        "id": 151,
-        "name": "Spider-Man"
-      },
-      {
-        "id": 320,
-        "name": "Iron Man"
-      },
-      {
-        "id": 210,
-        "name": "Hulk"
-      },
-      {
-        "id": 238,
-        "name": "X-Men"
-      },
-      {
-        "id": 203,
-        "name": "Fantastic Four"
-      },
-      {
-        "id": 6896,
-        "name": "Ms. Marvel"
-      },
-      {
-        "id": 45,
-        "name": "Deadpool"
-      },
-      {
-        "id": 6893,
-        "name": "Wolverine"
-      },
-      {
-        "id": 350,
-        "name": "Thor"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -24303,12 +22333,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1y02.jpg"
     },
     "first_release_date": "2009",
-    "franchises": [
-      {
-        "id": 1277,
-        "name": "Wolfenstein"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -24528,24 +22552,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2426.jpg"
     },
     "first_release_date": "2009",
-    "franchise": {
-      "id": 238,
-      "name": "X-Men"
-    },
-    "franchises": [
-      {
-        "id": 238,
-        "name": "X-Men"
-      },
-      {
-        "id": 124,
-        "name": "Marvel"
-      },
-      {
-        "id": 6893,
-        "name": "Wolverine"
-      }
-    ],
     "genres": [
       {
         "id": 25,
@@ -24592,12 +22598,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2o9p.jpg"
     },
     "first_release_date": "2009",
-    "franchises": [
-      {
-        "id": 72,
-        "name": "The Godfather"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -24659,12 +22659,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1u18.jpg"
     },
     "first_release_date": "2011",
-    "franchises": [
-      {
-        "id": 44,
-        "name": "DC Comics"
-      }
-    ],
     "genres": [
       {
         "id": 4,
@@ -24750,16 +22744,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1tx9.jpg"
     },
     "first_release_date": "2011",
-    "franchise": {
-      "id": 6,
-      "name": "Warhammer 40,000"
-    },
-    "franchises": [
-      {
-        "id": 6,
-        "name": "Warhammer 40,000"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -24817,20 +22801,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2eh6.jpg"
     },
     "first_release_date": "2001",
-    "franchises": [
-      {
-        "id": 23,
-        "name": "Alien"
-      },
-      {
-        "id": 464,
-        "name": "Predator"
-      },
-      {
-        "id": 507,
-        "name": "Alien vs. Predator"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -25434,12 +23404,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2n19.jpg"
     },
     "first_release_date": "2003",
-    "franchises": [
-      {
-        "id": 726,
-        "name": "Call of Duty"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -25489,12 +23453,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3acf.jpg"
     },
     "first_release_date": "2005",
-    "franchises": [
-      {
-        "id": 726,
-        "name": "Call of Duty"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -25541,12 +23499,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1wko.jpg"
     },
     "first_release_date": "2007",
-    "franchises": [
-      {
-        "id": 726,
-        "name": "Call of Duty"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -25601,12 +23553,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co21ib.jpg"
     },
     "first_release_date": "2004",
-    "franchises": [
-      {
-        "id": 726,
-        "name": "Call of Duty"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -25656,12 +23602,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1wl8.jpg"
     },
     "first_release_date": "2008",
-    "franchises": [
-      {
-        "id": 726,
-        "name": "Call of Duty"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -25784,12 +23724,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6yhe.jpg"
     },
     "first_release_date": "1996",
-    "franchises": [
-      {
-        "id": 10,
-        "name": "Sid Meier"
-      }
-    ],
     "genres": [
       {
         "id": 15,
@@ -25918,12 +23852,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7jjl.jpg"
     },
     "first_release_date": "2000",
-    "franchises": [
-      {
-        "id": 995,
-        "name": "Colin McRae"
-      }
-    ],
     "genres": [
       {
         "id": 10,
@@ -25974,16 +23902,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co88m7.jpg"
     },
     "first_release_date": "1995",
-    "franchise": {
-      "id": 12,
-      "name": "Command & Conquer"
-    },
-    "franchises": [
-      {
-        "id": 12,
-        "name": "Command & Conquer"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -26074,16 +23992,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co88lz.jpg"
     },
     "first_release_date": "2001",
-    "franchise": {
-      "id": 12,
-      "name": "Command & Conquer"
-    },
-    "franchises": [
-      {
-        "id": 12,
-        "name": "Command & Conquer"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -26126,16 +24034,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1nyd.jpg"
     },
     "first_release_date": "2003",
-    "franchise": {
-      "id": 12,
-      "name": "Command & Conquer"
-    },
-    "franchises": [
-      {
-        "id": 12,
-        "name": "Command & Conquer"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -26196,16 +24094,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1nye.jpg"
     },
     "first_release_date": "2003",
-    "franchise": {
-      "id": 12,
-      "name": "Command & Conquer"
-    },
-    "franchises": [
-      {
-        "id": 12,
-        "name": "Command & Conquer"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -26536,12 +24424,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co23vw.jpg"
     },
     "first_release_date": "2005",
-    "franchises": [
-      {
-        "id": 798,
-        "name": "Doom"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -26595,12 +24477,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5rav.jpg"
     },
     "first_release_date": "1993",
-    "franchises": [
-      {
-        "id": 798,
-        "name": "Doom"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -26823,12 +24699,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co207a.jpg"
     },
     "first_release_date": "2006",
-    "franchises": [
-      {
-        "id": 1110,
-        "name": "FIFA"
-      }
-    ],
     "genres": [
       {
         "id": 14,
@@ -26879,16 +24749,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1tan.jpg"
     },
     "first_release_date": "2000",
-    "franchises": [
-      {
-        "id": 1110,
-        "name": "FIFA"
-      },
-      {
-        "id": 4111,
-        "name": "MLS"
-      }
-    ],
     "genres": [
       {
         "id": 14,
@@ -26931,12 +24791,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6w2v.jpg"
     },
     "first_release_date": "1998",
-    "franchises": [
-      {
-        "id": 1110,
-        "name": "FIFA"
-      }
-    ],
     "genres": [
       {
         "id": 13,
@@ -26994,12 +24848,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2079.jpg"
     },
     "first_release_date": "2005",
-    "franchises": [
-      {
-        "id": 1110,
-        "name": "FIFA"
-      }
-    ],
     "genres": [
       {
         "id": 14,
@@ -27050,16 +24898,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2vai.jpg"
     },
     "first_release_date": "2001",
-    "franchises": [
-      {
-        "id": 1110,
-        "name": "FIFA"
-      },
-      {
-        "id": 4111,
-        "name": "MLS"
-      }
-    ],
     "genres": [
       {
         "id": 14,
@@ -27113,12 +24951,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co691k.jpg"
     },
     "first_release_date": "2004",
-    "franchises": [
-      {
-        "id": 1110,
-        "name": "FIFA"
-      }
-    ],
     "genres": [
       {
         "id": 14,
@@ -27169,12 +25001,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1u3k.jpg"
     },
     "first_release_date": "1997",
-    "franchises": [
-      {
-        "id": 1110,
-        "name": "FIFA"
-      }
-    ],
     "genres": [
       {
         "id": 14,
@@ -27235,16 +25061,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co20ig.jpg"
     },
     "first_release_date": "2002",
-    "franchise": {
-      "id": 12,
-      "name": "Command & Conquer"
-    },
-    "franchises": [
-      {
-        "id": 12,
-        "name": "Command & Conquer"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -27287,16 +25103,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1zv1.jpg"
     },
     "first_release_date": "2008",
-    "franchise": {
-      "id": 12,
-      "name": "Command & Conquer"
-    },
-    "franchises": [
-      {
-        "id": 12,
-        "name": "Command & Conquer"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -27423,12 +25229,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2lb8.jpg"
     },
     "first_release_date": "2001",
-    "franchises": [
-      {
-        "id": 493,
-        "name": "Grand Theft Auto"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -27559,12 +25359,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2lbv.jpg"
     },
     "first_release_date": "2008",
-    "franchises": [
-      {
-        "id": 493,
-        "name": "Grand Theft Auto"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -27633,12 +25427,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2lb9.jpg"
     },
     "first_release_date": "2004",
-    "franchises": [
-      {
-        "id": 493,
-        "name": "Grand Theft Auto"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -27731,12 +25519,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2lbb.jpg"
     },
     "first_release_date": "2002",
-    "franchises": [
-      {
-        "id": 493,
-        "name": "Grand Theft Auto"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -27820,16 +25602,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2r2r.jpg"
     },
     "first_release_date": "2001",
-    "franchise": {
-      "id": 137,
-      "name": "Halo"
-    },
-    "franchises": [
-      {
-        "id": 137,
-        "name": "Halo"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -27901,12 +25673,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1pdt.jpg"
     },
     "first_release_date": "2002",
-    "franchises": [
-      {
-        "id": 1273,
-        "name": "Hitman"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -28015,16 +25781,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1t8h.jpg"
     },
     "first_release_date": "2000",
-    "franchises": [
-      {
-        "id": 43,
-        "name": "Dungeons & Dragons"
-      },
-      {
-        "id": 6951,
-        "name": "Forgotten Realms"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -28149,12 +25905,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1vod.jpg"
     },
     "first_release_date": "2010",
-    "franchises": [
-      {
-        "id": 279,
-        "name": "Tomb Raider"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -28250,12 +26000,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2k9f.jpg"
     },
     "first_release_date": "2010",
-    "franchises": [
-      {
-        "id": 1048,
-        "name": "Mass Effect"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -28309,12 +26053,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2kxe.jpg"
     },
     "first_release_date": "2010",
-    "franchises": [
-      {
-        "id": 1048,
-        "name": "Mass Effect"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -28429,12 +26167,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3wi6.jpg"
     },
     "first_release_date": "2001",
-    "franchises": [
-      {
-        "id": 5771,
-        "name": "Myst"
-      }
-    ],
     "genres": [
       {
         "id": 2,
@@ -28500,12 +26232,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2lb2.jpg"
     },
     "first_release_date": "1999",
-    "franchises": [
-      {
-        "id": 493,
-        "name": "Grand Theft Auto"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -28801,20 +26527,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3ggb.jpg"
     },
     "first_release_date": "1999",
-    "franchise": {
-      "id": 43,
-      "name": "Dungeons & Dragons"
-    },
-    "franchises": [
-      {
-        "id": 43,
-        "name": "Dungeons & Dragons"
-      },
-      {
-        "id": 6954,
-        "name": "Planescape"
-      }
-    ],
     "genres": [
       {
         "id": 9,
@@ -28873,12 +26585,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4t8l.jpg"
     },
     "first_release_date": "2003",
-    "franchises": [
-      {
-        "id": 495,
-        "name": "Prince of Persia"
-      }
-    ],
     "genres": [
       {
         "id": 8,
@@ -28941,12 +26647,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9x1a.jpg"
     },
     "first_release_date": "2004",
-    "franchises": [
-      {
-        "id": 495,
-        "name": "Prince of Persia"
-      }
-    ],
     "genres": [
       {
         "id": 8,
@@ -29009,12 +26709,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co81im.jpg"
     },
     "first_release_date": "1999",
-    "franchises": [
-      {
-        "id": 994,
-        "name": "Rayman"
-      }
-    ],
     "genres": [
       {
         "id": 8,
@@ -29121,16 +26815,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobtgs.jpg"
     },
     "first_release_date": "2009",
-    "franchise": {
-      "id": 29,
-      "name": "Resident Evil"
-    },
-    "franchises": [
-      {
-        "id": 29,
-        "name": "Resident Evil"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -29390,12 +27074,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5p6s.jpg"
     },
     "first_release_date": "2007",
-    "franchises": [
-      {
-        "id": 2281,
-        "name": "Sam & Max"
-      }
-    ],
     "genres": [
       {
         "id": 2,
@@ -29453,16 +27131,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3wp5.jpg"
     },
     "first_release_date": "1999",
-    "franchise": {
-      "id": 10,
-      "name": "Sid Meier"
-    },
-    "franchises": [
-      {
-        "id": 10,
-        "name": "Sid Meier"
-      }
-    ],
     "genres": [
       {
         "id": 13,
@@ -29538,16 +27206,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co20up.jpg"
     },
     "first_release_date": "2010",
-    "franchise": {
-      "id": 10,
-      "name": "Sid Meier"
-    },
-    "franchises": [
-      {
-        "id": 10,
-        "name": "Sid Meier"
-      }
-    ],
     "genres": [
       {
         "id": 13,
@@ -29616,16 +27274,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1rjq.jpg"
     },
     "first_release_date": "2004",
-    "franchise": {
-      "id": 10,
-      "name": "Sid Meier"
-    },
-    "franchises": [
-      {
-        "id": 10,
-        "name": "Sid Meier"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -29789,12 +27437,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9eos.jpg"
     },
     "first_release_date": "2004",
-    "franchises": [
-      {
-        "id": 857,
-        "name": "Tom Clancy’s"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -29867,16 +27509,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1t8o.jpg"
     },
     "first_release_date": "2002",
-    "franchises": [
-      {
-        "id": 43,
-        "name": "Dungeons & Dragons"
-      },
-      {
-        "id": 6951,
-        "name": "Forgotten Realms"
-      }
-    ],
     "genres": [
       {
         "id": 12,
@@ -29965,12 +27597,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2vz0.jpg"
     },
     "first_release_date": "1998",
-    "franchises": [
-      {
-        "id": 29,
-        "name": "Resident Evil"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -30065,12 +27691,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1w4t.jpg"
     },
     "first_release_date": "2008",
-    "franchises": [
-      {
-        "id": 792,
-        "name": "Street Fighter"
-      }
-    ],
     "genres": [
       {
         "id": 4,
@@ -30373,12 +27993,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6rzl.jpg"
     },
     "first_release_date": "2007",
-    "franchises": [
-      {
-        "id": 2891,
-        "name": "Team Fortress"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -30672,12 +28286,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1ypo.jpg"
     },
     "first_release_date": "2006",
-    "franchises": [
-      {
-        "id": 857,
-        "name": "Tom Clancy’s"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -30739,12 +28347,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co95ri.jpg"
     },
     "first_release_date": "2002",
-    "franchises": [
-      {
-        "id": 857,
-        "name": "Tom Clancy’s"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -30813,12 +28415,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/coamhg.jpg"
     },
     "first_release_date": "2005",
-    "franchises": [
-      {
-        "id": 857,
-        "name": "Tom Clancy’s"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -30880,12 +28476,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3hfx.jpg"
     },
     "first_release_date": "1996",
-    "franchises": [
-      {
-        "id": 279,
-        "name": "Tomb Raider"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -30974,12 +28564,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1y77.jpg"
     },
     "first_release_date": "2000",
-    "franchises": [
-      {
-        "id": 2695,
-        "name": "Tony Hawk's"
-      }
-    ],
     "genres": [
       {
         "id": 14,
@@ -31062,12 +28646,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2nj3.jpg"
     },
     "first_release_date": "2001",
-    "franchises": [
-      {
-        "id": 2695,
-        "name": "Tony Hawk's"
-      }
-    ],
     "genres": [
       {
         "id": 14,
@@ -31250,12 +28828,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2acz.jpg"
     },
     "first_release_date": "2002",
-    "franchises": [
-      {
-        "id": 5741,
-        "name": "Unreal"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -31316,12 +28888,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2cpw.jpg"
     },
     "first_release_date": "2004",
-    "franchises": [
-      {
-        "id": 5741,
-        "name": "Unreal"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -31396,12 +28962,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2sje.jpg"
     },
     "first_release_date": "2007",
-    "franchises": [
-      {
-        "id": 5741,
-        "name": "Unreal"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -31462,16 +29022,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co93n1.jpg"
     },
     "first_release_date": "2003",
-    "franchises": [
-      {
-        "id": 2114,
-        "name": "Pro Evolution Soccer"
-      },
-      {
-        "id": 2141,
-        "name": "Winning Eleven"
-      }
-    ],
     "genres": [
       {
         "id": 13,
@@ -31652,12 +29202,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2f4c.jpg"
     },
     "first_release_date": "2007",
-    "franchises": [
-      {
-        "id": 995,
-        "name": "Colin McRae"
-      }
-    ],
     "genres": [
       {
         "id": 10,
@@ -31715,12 +29259,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1xjb.jpg"
     },
     "first_release_date": "1997",
-    "franchises": [
-      {
-        "id": 22,
-        "name": "Worms"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -31767,12 +29305,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1rkc.jpg"
     },
     "first_release_date": "1999",
-    "franchises": [
-      {
-        "id": 22,
-        "name": "Worms"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -31896,12 +29428,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1wku.jpg"
     },
     "first_release_date": "2006",
-    "franchises": [
-      {
-        "id": 726,
-        "name": "Call of Duty"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -32016,12 +29542,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co52uz.jpg"
     },
     "first_release_date": "1991",
-    "franchises": [
-      {
-        "id": 2763,
-        "name": "Duke Nukem"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -32090,16 +29610,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3m4l.jpg"
     },
     "first_release_date": "2008",
-    "franchise": {
-      "id": 12,
-      "name": "Command & Conquer"
-    },
-    "franchises": [
-      {
-        "id": 12,
-        "name": "Command & Conquer"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -32354,12 +29864,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2mjo.jpg"
     },
     "first_release_date": "2012",
-    "franchises": [
-      {
-        "id": 1822,
-        "name": "Max Payne"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -32576,12 +30080,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2vvb.jpg"
     },
     "first_release_date": "1999",
-    "franchises": [
-      {
-        "id": 29,
-        "name": "Resident Evil"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -32679,12 +30177,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3tp5.jpg"
     },
     "first_release_date": "2000",
-    "franchises": [
-      {
-        "id": 29,
-        "name": "Resident Evil"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -32745,12 +30237,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2vzn.jpg"
     },
     "first_release_date": "2000",
-    "franchises": [
-      {
-        "id": 29,
-        "name": "Resident Evil"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -32825,12 +30311,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2w3w.jpg"
     },
     "first_release_date": "2002",
-    "franchises": [
-      {
-        "id": 29,
-        "name": "Resident Evil"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -32873,12 +30353,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2w5p.jpg"
     },
     "first_release_date": "2003",
-    "franchises": [
-      {
-        "id": 29,
-        "name": "Resident Evil"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -32925,16 +30399,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2wk8.jpg"
     },
     "first_release_date": "2005",
-    "franchise": {
-      "id": 29,
-      "name": "Resident Evil"
-    },
-    "franchises": [
-      {
-        "id": 29,
-        "name": "Resident Evil"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -32977,12 +30441,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2w7o.jpg"
     },
     "first_release_date": "2007",
-    "franchises": [
-      {
-        "id": 29,
-        "name": "Resident Evil"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -33029,12 +30487,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co20d0.jpg"
     },
     "first_release_date": "2012",
-    "franchises": [
-      {
-        "id": 29,
-        "name": "Resident Evil"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -33099,12 +30551,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co54dy.jpg"
     },
     "first_release_date": "2012",
-    "franchises": [
-      {
-        "id": 29,
-        "name": "Resident Evil"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -33147,12 +30593,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1wkn.jpg"
     },
     "first_release_date": "2011",
-    "franchises": [
-      {
-        "id": 726,
-        "name": "Call of Duty"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -33225,12 +30665,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2lb0.jpg"
     },
     "first_release_date": "1997",
-    "franchises": [
-      {
-        "id": 493,
-        "name": "Grand Theft Auto"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -33324,12 +30758,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1v7k.jpg"
     },
     "first_release_date": "2011",
-    "franchises": [
-      {
-        "id": 994,
-        "name": "Rayman"
-      }
-    ],
     "genres": [
       {
         "id": 8,
@@ -33392,12 +30820,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1yh8.jpg"
     },
     "first_release_date": "2009",
-    "franchises": [
-      {
-        "id": 857,
-        "name": "Tom Clancy’s"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -33456,12 +30878,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1x77.jpg"
     },
     "first_release_date": "2004",
-    "franchises": [
-      {
-        "id": 137,
-        "name": "Halo"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -33522,12 +30938,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1xhc.jpg"
     },
     "first_release_date": "2007",
-    "franchises": [
-      {
-        "id": 137,
-        "name": "Halo"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -33574,12 +30984,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1wc0.jpg"
     },
     "first_release_date": "2009",
-    "franchises": [
-      {
-        "id": 137,
-        "name": "Halo"
-      }
-    ],
     "genres": [
       {
         "id": 11,
@@ -33622,12 +31026,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1xhh.jpg"
     },
     "first_release_date": "2009",
-    "franchises": [
-      {
-        "id": 137,
-        "name": "Halo"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -33674,12 +31072,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1xha.jpg"
     },
     "first_release_date": "2010",
-    "franchises": [
-      {
-        "id": 137,
-        "name": "Halo"
-      }
-    ],
     "genres": [
       {
         "id": 5,
@@ -33733,12 +31125,6 @@
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1xhf.jpg"
     },
     "first_release_date": "2012",
-    "franchises": [
-      {
-        "id": 137,
-        "name": "Halo"
-      }
-    ],
     "genres": [
       {
         "id": 5,
