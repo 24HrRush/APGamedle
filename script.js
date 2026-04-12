@@ -19,13 +19,13 @@ fetch('games_info.json')
         // Update the mangaList with data from the JSON file
         gameList = data;
         // Initialize the game after loading the data
-        window.addEventListener("keyup", ev => {
-  if (ev.key === "ArrowUp") {
+        ["keyup", "touchend"].forEach(type => window.addEventListener(type, ev => {
+  if (ev.type === "ArrowUp" || ev.type === "touchend") {
     document.getElementById("startScreen").style.display = "none";
     document.getElementById("gameScreen").style.display = "block";
     initGame();
   }
-});
+}));
     })
     .catch(error => {
         console.error('There has been a problem with your fetch operation:', error);
