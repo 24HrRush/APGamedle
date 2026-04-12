@@ -19,12 +19,12 @@ fetch('games_info.json')
         // Update the mangaList with data from the JSON file
         gameList = data;
         // Initialize the game after loading the data
-        window.addEventListener('click', (ev) => {
- 
+        window.addEventListener("keyup", ev => {
+  if (ev.key === "ArrowUp") {
     document.getElementById("startScreen").style.display = "none";
     document.getElementById("gameScreen").style.display = "block";
     initGame();
-  
+  }
 });
     })
     .catch(error => {
