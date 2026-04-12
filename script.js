@@ -250,7 +250,7 @@ else {
 
   if (guess === gameToGuess.name.toLowerCase()) {
     setTimeout(function() {
-      alert("Congratulations! You've guessed the manga!");
+      alert("Congratulations! You've guessed the game!");
       gameIsActive = false;
       input.disabled = true;
       guessButton.disabled = true;
