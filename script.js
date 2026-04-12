@@ -7,7 +7,7 @@ let mangaList = [];
 document.getElementById("gameScreen").style.display = "none";
 
 // Load data from the JSON file
-fetch('series_info.json')
+fetch('games_info.json')
     .then(response => {
         // Check if the request was successful
         if (!response.ok) {
@@ -17,7 +17,7 @@ fetch('series_info.json')
     })
     .then(data => {
         // Update the mangaList with data from the JSON file
-        mangaList = data;
+        gameList = data;
         // Initialize the game after loading the data
         window.addEventListener("keyup", ev => {
   if (ev.key === "ArrowUp") {
@@ -54,27 +54,27 @@ displayLives();
 
 
 function populateDataList() {
-  const dataList = document.getElementById("manga-titles");
+  const dataList = document.getElementById("game-titles");
   
-  mangaList.forEach(manga => {
+  gameList.forEach(game => {
     const option = document.createElement("option");
-    option.value = manga.title;
+    option.value = game.name;
     dataList.appendChild(option);
   });
 }
 
 populateDataList();
 
-function getRandomManga() {
-  const randomIndex = Math.floor(Math.random() * mangaList.length);
-  return mangaList[randomIndex];
+function getRandomGame() {
+  const randomIndex = Math.floor(Math.random() * gameList.length);
+  return gameList[randomIndex];
 }
 
-let mangaToGuess = getRandomManga();
+let gameToGuess = getRandomGame();
 
 function resetGame() {
   gameIsActive = true;
-  mangaToGuess = getRandomManga();  // Generate a new manga to guess
+  gameToGuess = getRandomGame();  // Generate a new manga to guess
   
   const input = document.getElementById("guess");
   const guessButton = document.getElementById("guessButton");
@@ -97,8 +97,8 @@ function giveHint() {
   document.getElementById("hintButton").style.display = "none";
   
   // Calculate the list of categories that have not been guessed correctly yet
-  const unguessedCategories = Object.keys(mangaToGuess).filter(category => {
-    return !correctCategories.includes(category) && category !== 'title' && category !== 'author' && category !== 'artist';
+  const unguessedCategories = Object.keys(gameToGuess).filter(category => {
+    return !correctCategories.includes(category) && category !== 'name';
   });
   
   // Pick a random unguessed category to provide a hint for
@@ -109,10 +109,10 @@ function giveHint() {
   const tableBody = document.getElementById("infoTable").getElementsByTagName('tbody')[0];
   const newRow = tableBody.insertRow();
   
-  Object.keys(mangaToGuess).forEach((key, i) => {
+  Object.keys(gameToGuess).forEach((key, i) => {
     const cell = newRow.insertCell(i);
     if (key === hintCategory) {
-      cell.innerText = mangaToGuess[hintCategory];
+      cell.innerText = gameToGuess[hintCategory];
       cell.style.backgroundColor = 'green'; // You can choose another color for hints
     } else {
       cell.innerText = " "; // Empty cell for all other categories
@@ -128,25 +128,24 @@ function checkGuess() {
   const guessButton = document.getElementById("guessButton");
   const guess = input.value.toLowerCase();
 
-  const validTitles = mangaList.map(manga => manga.title.toLowerCase());
+  const validTitles = gameList.map(game => game.name.toLowerCase());
   if (!validTitles.includes(guess)) {
     alert("Please enter a valid title from the list");
     return;
   }
 
-  const guessedManga = mangaList.find(manga => manga.title.toLowerCase() === guess);
+  const guessedGame = gameList.find(game => game.name.toLowerCase() === guess);
   const tableBody = document.getElementById("infoTable").getElementsByTagName('tbody')[0];
   const newRow = tableBody.insertRow();
 
-  Object.keys(mangaToGuess).forEach((key, i) => {
+  Object.keys(gameToGuess).forEach((key, i) => {
     const cell = newRow.insertCell(i);
-    cell.innerText = guessedManga[key];
+    cell.innerText = guessedGame[key];
 
     // Special handling for each category
-    if (key === 'yearBegin') {
-      const currentYear = new Date().getFullYear();
-      const correctYear = parseInt(mangaToGuess[key] === "Ongoing" ? currentYear : mangaToGuess[key]);
-      const guessedYear = parseInt(guessedManga[key] === "Ongoing" ? currentYear : guessedManga[key]);
+    if (key === 'first_release_date') {
+      const correctYear = parseInt(gameToGuess[key]);
+      const guessedYear = parseInt(guessedGame[key]);
             
       if (guessedYear === correctYear) {
         cell.style.backgroundColor = 'green';
@@ -165,9 +164,9 @@ function checkGuess() {
       return;
     }
     
-    if (key === 'genre') {
-      const correctGenres = mangaToGuess.genre.split(', ');
-      const guessedGenres = guessedManga.genre.split(', ');
+    if (key === 'genres') {
+      const correctGenres = gameToGuess.genres.split(', ');
+      const guessedGenres = guessedGame.genres.split(', ');
   
       const intersection = guessedGenres.filter(g => correctGenres.includes(g));
       
@@ -181,7 +180,7 @@ function checkGuess() {
       return;
     }
   
-    if (guessedManga[key] === mangaToGuess[key]) {
+    if (guessedGame[key] === gameToGuess[key]) {
       cell.style.backgroundColor = 'green';
       // Add the category to the list of correct categories if it's not already there
       if (!correctCategories.includes(key)) {
@@ -192,7 +191,7 @@ function checkGuess() {
     }
   });
 
-  if (guess === mangaToGuess.title.toLowerCase()) {
+  if (guess === gameToGuess.title.toLowerCase()) {
     setTimeout(function() {
       alert("Congratulations! You've guessed the manga!");
       gameIsActive = false;
@@ -206,7 +205,7 @@ function checkGuess() {
 
     if (lives <= 0) {
       setTimeout(function() {
-        alert("Game over!The manga was " + mangaToGuess.title);
+        alert("Game over!The game was " + gameToGuess.title);
         gameIsActive = false;
         input.disabled = true;
         guessButton.disabled = true;
