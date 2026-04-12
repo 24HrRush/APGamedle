@@ -165,8 +165,8 @@ function checkGuess() {
     }
     
     if (key === 'genres') {
-      const correctGenres = gameToGuess.genres.split(', ');
-      const guessedGenres = guessedGame.genres.split(', ');
+      const correctGenres = gameToGuess.genres.map(g => g.name).join(", ");
+      const guessedGenres = guessedGame.genres.map(g => g.name).join(", ");
   
       const intersection = guessedGenres.filter(g => correctGenres.includes(g));
       
@@ -191,7 +191,7 @@ function checkGuess() {
     }
   });
 
-  if (guess === gameToGuess.title.toLowerCase()) {
+  if (guess === gameToGuess.name.toLowerCase()) {
     setTimeout(function() {
       alert("Congratulations! You've guessed the manga!");
       gameIsActive = false;
@@ -205,7 +205,7 @@ function checkGuess() {
 
     if (lives <= 0) {
       setTimeout(function() {
-        alert("Game over!The game was " + gameToGuess.title);
+        alert("Game over!The game was " + gameToGuess.name);
         gameIsActive = false;
         input.disabled = true;
         guessButton.disabled = true;
