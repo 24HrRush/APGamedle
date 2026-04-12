@@ -236,6 +236,8 @@ else {
       }
       return;
     }
+
+  
   
     if (guessedGame[key] === gameToGuess[key]) {
       cell.style.backgroundColor = 'green';
