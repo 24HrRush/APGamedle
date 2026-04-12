@@ -19,8 +19,8 @@ fetch('games_info.json')
         // Update the mangaList with data from the JSON file
         gameList = data;
         // Initialize the game after loading the data
-        window.addEventListener("click", ev => {
-  if (ev.key === "click") {
+        window.addEventListener('click', ev => {
+  if (ev.key === 'click') {
     document.getElementById("startScreen").style.display = "none";
     document.getElementById("gameScreen").style.display = "block";
     initGame();
