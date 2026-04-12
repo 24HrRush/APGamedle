@@ -14,7 +14,7 @@
 
 body {
   height: 100vh;
-  background: linear-gradient(#5213e7, rgb(158, 72, 255)) no-repeat, cover;
+  background: linear-gradient(#5213e7, rgb(158, 72, 255)) no-repeat;
 }
 
 #startScreen {
