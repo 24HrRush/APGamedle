@@ -150,14 +150,7 @@ else if (key === 'platforms') {
 else if (key === 'involved_companies') {
   cell.innerText = guessedGame.involved_companies.map(c => c.company.name).join(", ");
 }
-else if (key === 'cover') {
-const img = document.createElement("img");
-const url = "https:" + guessedGame.cover.url;
-img.src = url;
 
-
-cell.appendChild(img);
-}
 else {
   cell.innerText = guessedGame[key];
 }
