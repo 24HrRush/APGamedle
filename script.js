@@ -2,7 +2,7 @@ let gameIsActive = true;
 let lives = 10;
 let correctCategories = [];
 
-let mangaList = [];
+let gameList = [];
 
 document.getElementById("gameScreen").style.display = "none";
 
