@@ -98,7 +98,7 @@ function giveHint() {
   
   // Calculate the list of categories that have not been guessed correctly yet
   const unguessedCategories = Object.keys(gameToGuess).filter(category => {
-    return !correctCategories.includes(category) && category !== 'name' && category !== 'rating';
+    return !correctCategories.includes(category) && category !== 'name' && category !== 'rating' && category !== 'id';
   });
   
   // Pick a random unguessed category to provide a hint for
