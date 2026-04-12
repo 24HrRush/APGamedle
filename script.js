@@ -113,7 +113,7 @@ function giveHint() {
     const cell = newRow.insertCell(i);
     if (key === hintCategory) {
       cell.innerText = gameToGuess[hintCategory];
-      cell.style.backgroundColor = '#00D100'; // You can choose another color for hints
+      cell.style.backgroundColor = '#77DD77'; // You can choose another color for hints
     } else {
       cell.innerText = " "; // Empty cell for all other categories
       cell.style.backgroundColor = '#FF6961'
@@ -168,7 +168,7 @@ else {
       const guessedYear = parseInt(guessedGame[key]);
             
       if (guessedYear === correctYear) {
-        cell.style.backgroundColor = '#00D100';
+        cell.style.backgroundColor = '#77DD77';
       } else if (typeof guessedYear === "number" && typeof correctYear === "number") {
         const diff = guessedYear - correctYear;
         if (Math.abs(diff) <= 5) {
@@ -189,7 +189,7 @@ else {
       const guessedRating = parseInt(guessedGame[key]);
             
       if (guessedRating === correctRating) {
-        cell.style.backgroundColor = '#00D100';
+        cell.style.backgroundColor = '#77DD77';
       } else if (typeof guessedRating === "number" && typeof correctRating === "number") {
         const diff = guessedRating - correctRating;
         if (Math.abs(diff) <= 5) {
@@ -212,7 +212,7 @@ else {
       const intersection = guessedGenres.filter(g => correctGenres.includes(g));
       
       if (intersection.length === guessedGenres.length && guessedGenres.length === correctGenres.length) {
-          cell.style.backgroundColor = '#00D100';
+          cell.style.backgroundColor = '#77DD77';
       } else if (intersection.length > 0) {
           cell.style.backgroundColor = '#FBB124';
       } else {
@@ -228,7 +228,7 @@ else {
       const intersection = guessedPlatforms.filter(g => correctPlatforms.includes(g));
       
       if (intersection.length === guessedPlatforms.length && guessedPlatforms.length === correctPlatforms.length) {
-          cell.style.backgroundColor = '#00D100';
+          cell.style.backgroundColor = '#77DD77';
       } else if (intersection.length > 0) {
           cell.style.backgroundColor = '#FBB124';
       } else {
@@ -240,7 +240,7 @@ else {
   
   
     if (guessedGame[key] === gameToGuess[key]) {
-      cell.style.backgroundColor = '#00D100';
+      cell.style.backgroundColor = '#77DD77';
       // Add the category to the list of correct categories if it's not already there
       if (!correctCategories.includes(key)) {
         correctCategories.push(key);
