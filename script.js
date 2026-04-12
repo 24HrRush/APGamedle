@@ -264,7 +264,7 @@ else {
 
     if (lives <= 0) {
       setTimeout(function() {
-        alert("Game over!The game was " + gameToGuess.name);
+        alert("Game over! The game was  " + gameToGuess.name);
         gameIsActive = false;
         input.disabled = true;
         guessButton.disabled = true;
