@@ -140,7 +140,19 @@ function checkGuess() {
 
   Object.keys(gameToGuess).forEach((key, i) => {
     const cell = newRow.insertCell(i);
-    cell.innerText = guessedGame[key];
+    // Handle display values first
+if (key === 'genres') {
+  cell.innerText = guessedGame.genres.map(g => g.name).join(", ");
+} 
+else if (key === 'platforms') {
+  cell.innerText = guessedGame.platforms.map(p => p.name).join(", ");
+} 
+else if (key === 'involved_companies') {
+  cell.innerText = guessedGame.involved_companies.map(c => c.company.name).join(", ");
+}
+else {
+  cell.innerText = guessedGame[key];
+}
 
     // Special handling for each category
     if (key === 'first_release_date') {
@@ -165,9 +177,9 @@ function checkGuess() {
     }
     
     if (key === 'genres') {
-      const correctGenres = gameToGuess.genres.map(g => g.name).join(", ");
-      const guessedGenres = guessedGame.genres.map(g => g.name).join(", ");
-  
+      const correctGenres = gameToGuess.genres.map(g => g.name);
+      const guessedGenres = guessedGame.genres.map(g => g.name);
+
       const intersection = guessedGenres.filter(g => correctGenres.includes(g));
       
       if (intersection.length === guessedGenres.length && guessedGenres.length === correctGenres.length) {
@@ -181,9 +193,9 @@ function checkGuess() {
     }
 
     if (key === 'platforms') {
-      const correctPlatforms = gameToGuess.platforms.map(g => g.name).join(", ");
-      const guessedPlatforms = guessedGame.platforms.map(g => g.name).join(", ");
-  
+      const correctPlatforms = gameToGuess.platforms.map(g => g.name);
+      const guessedPlatforms = guessedGame.platforms.map(g => g.name);
+
       const intersection = guessedPlatforms.filter(g => correctPlatforms.includes(g));
       
       if (intersection.length === guessedPlatforms.length && guessedPlatforms.length === correctPlatforms.length) {
