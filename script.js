@@ -16,8 +16,9 @@ fetch('games_info.json')
         return response.json();
     })
     .then(data => {
-        // Update the mangaList with data from the JSON file
+        // Update the gameList with data from the JSON file
         gameList = data;
+        console.log('The number of games is ${gameList.length}');
         // Initialize the game after loading the data
         window.addEventListener("click", ev => {
   if (ev.target.id === "myButton") {
@@ -35,7 +36,6 @@ fetch('games_info.json')
     function initGame() {
     populateDataList();
     resetGame();
-    console.log(gameList.length);
 }
 
 
