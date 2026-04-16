@@ -18,7 +18,7 @@ fetch('games_info.json')
     .then(data => {
         // Update the gameList with data from the JSON file
         gameList = data;
-        console.log('The number of games is ${gameList.length}');
+        console.log(`The number of games is ${gameList.length}`);
         // Initialize the game after loading the data
         window.addEventListener("click", ev => {
   if (ev.target.id === "myButton") {
