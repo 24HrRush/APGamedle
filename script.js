@@ -35,6 +35,7 @@ fetch('games_info.json')
     function initGame() {
     populateDataList();
     resetGame();
+    console.log(gameList.length)
 }
 
 
