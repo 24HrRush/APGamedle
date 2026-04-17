@@ -119,9 +119,7 @@ function giveHint() {
   
   Object.keys(gameToGuess).forEach((key, i) => {
     const cell = newRow.insertCell(i);
-    cell.style.borderRadius = '30px';
-    cell.style.maxWidth = 'fit-content';
-    cell.style.maxHeight = 'fit-content';
+    cell.style.borderRadius = '5px';
     if (key === hintCategory) {
       if (hintCategory === 'genres') {
   cell.innerText = gameToGuess.genres.map(g => g.name).join("\n");
