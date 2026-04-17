@@ -19,7 +19,7 @@
   font-style: normal;
 }
 
-
+table { border-spacing: 15px 0px;}
 
 
 .row {
@@ -132,10 +132,9 @@ body {
     -1px  1px 0 black,
      1px  1px 0 black,
      2px  2px 4px rgba(0, 0, 0, 0.5);
-  text-align: center;
-  border: 1px solid black;
-  border-radius: 15px;
 }
+
+
 
 
 
