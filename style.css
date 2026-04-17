@@ -97,3 +97,15 @@ body {
   margin: 4px 2px;
   cursor: pointer;
 }
+
+#infoTable {
+  font-family: "GuessFont";
+
+}
+
+@font-face {
+  font-family: "GuessFont";
+  src: url('fonts/Milk Choco.otf') format('otf');
+  font-weight: normal;
+  font-style: normal;
+}
