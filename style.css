@@ -121,7 +121,7 @@ body {
   cursor: pointer;
 }
 #infoTable {
-  border-spacing: 5px 0px;
+  border-spacing: 5px 1px;
 }
 
 #infoTable tbody {
@@ -133,6 +133,7 @@ body {
     -1px  1px 0 black,
      1px  1px 0 black,
      2px  2px 4px rgba(0, 0, 0, 0.5);
+  text-align: center;
 }
 
 
