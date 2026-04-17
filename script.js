@@ -1,9 +1,9 @@
 let gameIsActive = true;
-let lives = 10;
+let lives = 15;
 let correctCategories = [];
 
 let gameList = [];
-let hint_counter = 2;
+let hint_counter = 3;
 
 document.getElementById("gameScreen").style.display = "none";
 
@@ -87,8 +87,9 @@ function resetGame() {
   guessButton.disabled = false;
   hintButton.disabled = false;
   
-  lives = 10;  // Reset lives
+  lives = 15;  // Reset lives
   displayLives();  // Update displayed lives
+  hint_counter = 3; // Reset Hints
   
   // Clear the previous game's information table
   const tableBody = document.getElementById("infoTable").getElementsByTagName('tbody')[0];
