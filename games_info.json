@@ -64033,5 +64033,263 @@
       }
     ],
     "rating": 87
+  },
+  {
+    "id": 23695,
+    "cover": {
+      "id": 84749,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1te5.jpg"
+    },
+    "first_release_date": "2003",
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 164850,
+        "company": {
+          "id": 395,
+          "name": "Sonic Team"
+        }
+      },
+      {
+        "id": 164851,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        }
+      }
+    ],
+    "name": "Sonic Adventure DX: Director's Cut",
+    "platforms": [
+      {
+        "id": 21,
+        "name": "Nintendo GameCube"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "rating": 70
+  },
+  {
+    "id": 7862,
+    "cover": {
+      "id": 265810,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5p3m.jpg"
+    },
+    "first_release_date": "2001",
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 192233,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        }
+      },
+      {
+        "id": 192232,
+        "company": {
+          "id": 395,
+          "name": "Sonic Team"
+        }
+      }
+    ],
+    "name": "Sonic Adventure 2: Battle",
+    "platforms": [
+      {
+        "id": 21,
+        "name": "Nintendo GameCube"
+      },
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 12,
+        "name": "Xbox 360"
+      }
+    ],
+    "rating": 75
+  },
+  {
+    "id": 338067,
+    "cover": {
+      "id": 525897,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cob9s9.jpg"
+    },
+    "first_release_date": "2025",
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 313956,
+        "company": {
+          "id": 70,
+          "name": "Nintendo"
+        }
+      },
+      {
+        "id": 324037,
+        "company": {
+          "id": 1119,
+          "name": "Monolith Soft"
+        }
+      },
+      {
+        "id": 324629,
+        "company": {
+          "id": 2910,
+          "name": "1-UP Studio"
+        }
+      },
+      {
+        "id": 324630,
+        "company": {
+          "id": 22721,
+          "name": "Bandai Namco Studios"
+        }
+      },
+      {
+        "id": 330804,
+        "company": {
+          "id": 45214,
+          "name": "Nintendo EPD Production Group No. 9"
+        }
+      }
+    ],
+    "name": "Mario Kart World",
+    "platforms": [
+      {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      }
+    ],
+    "rating": 79
+  },
+  {
+    "id": 26766,
+    "cover": {
+      "id": 524558,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cob8r2.jpg"
+    },
+    "first_release_date": "2017",
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 54338,
+        "company": {
+          "id": 70,
+          "name": "Nintendo"
+        }
+      },
+      {
+        "id": 54337,
+        "company": {
+          "id": 1119,
+          "name": "Monolith Soft"
+        }
+      }
+    ],
+    "name": "Xenoblade Chronicles 2",
+    "platforms": [
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "rating": 90
+  },
+  {
+    "id": 191411,
+    "cover": {
+      "id": 218186,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4ocq.jpg"
+    },
+    "first_release_date": "2022",
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 163667,
+        "company": {
+          "id": 1119,
+          "name": "Monolith Soft"
+        }
+      },
+      {
+        "id": 163668,
+        "company": {
+          "id": 70,
+          "name": "Nintendo"
+        }
+      },
+      {
+        "id": 262618,
+        "company": {
+          "id": 54159,
+          "name": "Zereo"
+        }
+      }
+    ],
+    "name": "Xenoblade Chronicles 3",
+    "platforms": [
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "rating": 85
   }
 ]
