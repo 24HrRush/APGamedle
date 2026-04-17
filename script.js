@@ -98,6 +98,7 @@ function giveHint() {
 
   hint_counter -= 1;
   // Hide the button
+  console.log(`The number of hints left is ${hint_counter}`);
 
   if (hint_counter = 0) document.getElementById("hintButton").style.display = "none";
   
