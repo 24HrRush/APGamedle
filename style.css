@@ -83,6 +83,7 @@ body {
 #gameScreen {
   display: none;
   color: #000000;
+  font-family: 'TitleFont';
 }
 
 #myButton {
@@ -100,12 +101,18 @@ body {
 
 #infoTable {
   font-family: "GuessFont";
-
 }
 
 @font-face {
   font-family: "GuessFont";
-  src: url('fonts/Milk Choco.otf') format('otf');
+  src: url('fonts/Milk Choco.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "TitleFont";
+  src: url('fonts/Ace-Attorney.ttf');
   font-weight: normal;
   font-style: normal;
 }
