@@ -134,14 +134,4 @@ body {
      2px  2px 4px rgba(0, 0, 0, 0.5);
 }
 
-#infoTable th {
-  font-family: 'CategoryFont', sans-serif;
-  color: white;
-  text-shadow:
-    -1px -1px 0 black,
-     1px -1px 0 black,
-    -1px  1px 0 black,
-     1px  1px 0 black,
-     2px  2px 4px rgba(0, 0, 0, 0.5);
-}
 

@@ -121,16 +121,16 @@ function giveHint() {
     const cell = newRow.insertCell(i);
     if (key === hintCategory) {
       if (hintCategory === 'genres') {
-  cell.innerText = gameToGuess.genres.map(g => g.name).join(", ");
+  cell.innerText = gameToGuess.genres.map(g => g.name).join("\n");
 } 
 else if (hintCategory === 'platforms') {
-  cell.innerText = gameToGuess.platforms.map(p => p.name).join(", ");
+  cell.innerText = gameToGuess.platforms.map(p => p.name).join("\n");
 } 
 else if (hintCategory === 'involved_companies') {
-  cell.innerText = gameToGuess.involved_companies.map(c => c.company.name).join(", ");
+  cell.innerText = gameToGuess.involved_companies.map(c => c.company.name).join("\n");
 }
 else if (hintCategory === 'categories') {
-  cell.innerText = gameToGuess.categories.map(c => c.name).join(", ");
+  cell.innerText = gameToGuess.categories.map(c => c.name).join("\n");
 }
 else {
   cell.innerText = gameToGuess[hintCategory];
@@ -164,13 +164,13 @@ function checkGuess() {
     const cell = newRow.insertCell(i);
     // Handle display values first
 if (key === 'genres') {
-  cell.innerText = guessedGame.genres.map(g => g.name).join(", ");
+  cell.innerText = guessedGame.genres.map(g => g.name).join("\n");
 } 
 else if (key === 'platforms') {
-  cell.innerText = guessedGame.platforms.map(p => p.name).join(", ");
+  cell.innerText = guessedGame.platforms.map(p => p.name).join("\n");
 } 
 else if (key === 'involved_companies') {
-  cell.innerText = guessedGame.involved_companies.map(c => c.company.name).join(", ");
+  cell.innerText = guessedGame.involved_companies.map(c => c.company.name).join("\n");
 }
 else if (key === 'cover') {
   if (guessedGame.cover?.url) {
