@@ -90,6 +90,7 @@ function resetGame() {
   lives = 15;  // Reset lives
   displayLives();  // Update displayed lives
   hint_counter = 3; // Reset Hints
+  document.getElementById("hintButton").style.display = "revert";
   
   // Clear the previous game's information table
   const tableBody = document.getElementById("infoTable").getElementsByTagName('tbody')[0];
