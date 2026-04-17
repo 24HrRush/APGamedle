@@ -47,7 +47,7 @@ function displayLives() {
   for (let i = 0; i < lives; i++) {
     hearts += '❤️';
   }
-  for (let i = 0; i < (10 - lives); i++) {
+  for (let i = 0; i < (15 - lives); i++) {
     hearts += '🤍';
   }
   livesElement.innerHTML = hearts;
