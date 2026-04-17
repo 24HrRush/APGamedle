@@ -138,7 +138,7 @@ else {
       cell.style.backgroundColor = '#77DD77'; // You can choose another color for hints
     } else {
       cell.innerText = " "; // Empty cell for all other categories
-      cell.style.backgroundColor = '#FF6961'
+      cell.style.backgroundColor = '#00000000'
     }
   });
 }
