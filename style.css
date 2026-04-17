@@ -1,3 +1,20 @@
+@font-face {
+  font-family: 'GuessFont';
+  src: url('fonts/Milk\ Choco.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TitleFont';
+  src: url('fonts/Ace-Attorney.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+
 .row {
   display: flex;
   border: 1px solid;
@@ -83,6 +100,7 @@ body {
 #gameScreen {
   display: none;
   color: #000000;
+  font-family: 'TitleFont', sans-serif;
 }
 
 #myButton {
@@ -99,19 +117,6 @@ body {
 }
 
 #infoTable {
-  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: 'GuessFont', sans-serif;
 }
 
-@font-face {
-  font-family: "GuessFont";
-  src: url('fonts/Milk Choco.otf');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "TitleFont";
-  src: url('fonts/Ace-Attorney.ttf');
-  font-weight: normal;
-  font-style: normal;
-}
