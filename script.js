@@ -3,6 +3,7 @@ let lives = 10;
 let correctCategories = [];
 
 let gameList = [];
+let hint_counter = 2;
 
 document.getElementById("gameScreen").style.display = "none";
 
@@ -95,8 +96,10 @@ function resetGame() {
 function giveHint() {
   if (!gameIsActive) return; // Don't provide hints if the game is over
 
+  hint_counter -= 1;
   // Hide the button
-  document.getElementById("hintButton").style.display = "none";
+
+  if (hint_counter = 0) document.getElementById("hintButton").style.display = "none";
   
   // Calculate the list of categories that have not been guessed correctly yet
   const unguessedCategories = Object.keys(gameToGuess).filter(category => {
