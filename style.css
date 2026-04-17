@@ -116,10 +116,14 @@ body {
   cursor: pointer;
 }
 
-#infoTable {
+#infoTable tbody {
   font-family: 'GuessFont', sans-serif;
-  -webkit-text-stroke: 1px black;
   color: white;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  text-shadow:
+    -1px -1px 0 black,
+     1px -1px 0 black,
+    -1px  1px 0 black,
+     1px  1px 0 black,
+     2px  2px 4px rgba(0, 0, 0, 0.5);
 }
 
