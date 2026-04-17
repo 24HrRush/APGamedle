@@ -81,9 +81,11 @@ function resetGame() {
   
   const input = document.getElementById("guess");
   const guessButton = document.getElementById("guessButton");
+  const hintButton = document.getElementById("hintButton");
   
   input.disabled = false;
   guessButton.disabled = false;
+  hintButton.disabled = false;
   
   lives = 10;  // Reset lives
   displayLives();  // Update displayed lives
@@ -94,13 +96,13 @@ function resetGame() {
 }
 
 function giveHint() {
-  if (!gameIsActive) return; // Don't provide hints if the game is over
+  if (!gameIsActive || hint_counter <= 0) return; // Don't provide hints if the game is over
 
   hint_counter --;
   // Hide the button
   console.log(`The number of hints left is ${hint_counter}`);
 
-  if (hint_counter <= 0) document.getElementById("hintButton").style.display = "none";
+  if (hint_counter === 0) document.getElementById("hintButton").style.display = "none";
   
   // Calculate the list of categories that have not been guessed correctly yet
   const unguessedCategories = Object.keys(gameToGuess).filter(category => {
