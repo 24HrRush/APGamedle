@@ -163,8 +163,7 @@ function checkGuess() {
 
   Object.keys(gameToGuess).forEach((key, i) => {
     const cell = newRow.insertCell(i);
-    cell.style.borderRadius = '30px';
-    cell.style.display = 'inline-block';
+    cell.style.borderRadius = '5px';
     // Handle display values first
 if (key === 'genres') {
   cell.innerText = guessedGame.genres.map(g => g.name).join("\n");
