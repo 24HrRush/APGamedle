@@ -83,7 +83,6 @@ body {
 #gameScreen {
   display: none;
   color: #000000;
-  font-family: 'TitleFont';
 }
 
 #myButton {
@@ -100,7 +99,7 @@ body {
 }
 
 #infoTable {
-  font-family: "GuessFont";
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 @font-face {
