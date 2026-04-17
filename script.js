@@ -119,6 +119,7 @@ function giveHint() {
   
   Object.keys(gameToGuess).forEach((key, i) => {
     const cell = newRow.insertCell(i);
+    cell.style.borderRadius = '30px';
     if (key === hintCategory) {
       if (hintCategory === 'genres') {
   cell.innerText = gameToGuess.genres.map(g => g.name).join("\n");
@@ -162,6 +163,7 @@ function checkGuess() {
 
   Object.keys(gameToGuess).forEach((key, i) => {
     const cell = newRow.insertCell(i);
+    cell.style.borderRadius = '30px';
     // Handle display values first
 if (key === 'genres') {
   cell.innerText = guessedGame.genres.map(g => g.name).join("\n");
