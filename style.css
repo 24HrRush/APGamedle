@@ -132,6 +132,14 @@ body {
     -1px  1px 0 black,
      1px  1px 0 black,
      2px  2px 4px rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
+
+.cell {
+  border-radius: 25px;
+  padding: 20px;
+  width: 100px;
+  height: 75px;
 }
 
 
