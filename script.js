@@ -253,7 +253,7 @@ else {
 
       const intersection = guessedCompanies.filter(g => correctCompanies.includes(g));
       
-      if (intersection.length === guessedCompanies.length && guessedCompanies.length === correctCompanies.length && correctCompanies.every(g => guessedCompanies.includes(g))) {
+      if (intersection.length === guessedCompanies.length && guessedCompanies.length === correctCompanies.length) {
           cell.style.backgroundColor = '#77DD77';
       } else if (intersection.length > 0) {
           cell.style.backgroundColor = '#FBB124';
