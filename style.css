@@ -39,6 +39,7 @@ body {
   width: 100vw;
   background-image: url('background.jpg') no-repeat center center fixed;
   background-size: cover;
+  background-attachment: fixed;
   margin: 0;
 }
 
