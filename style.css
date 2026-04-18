@@ -55,13 +55,19 @@ body {
   border-radius: 10px;
   box-shadow: 0 1px 32px black;
   transform: rotate(0) scale(0);
-  animation: boom 1s linear;
+  animation: 1s fadeInUp ease-in;
   animation-fill-mode: forwards;
 }
 
-@keyframes boom {
-  from { opacity: 0; }
-  to { opacity: 1; }
+@keyframes fadeInUp {
+  0% {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0%);
+    opacity: 1;
+  }
 }
 
 #startScreen div {
