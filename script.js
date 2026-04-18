@@ -247,6 +247,22 @@ else {
       return;
     }
 
+    if (key === 'involved_companies') {
+      const correctCompanies = gameToGuess.involved_companies.map(g => g.name);
+      const guessedCompanies = guessedGame.involved_companies.map(g => g.name);
+
+      const intersection = guessedCompanies.filter(g => correctCompanies.includes(g));
+      
+      if (intersection.length === guessedCompanies.length && guessedCompanies.length === correctCompanies.length) {
+          cell.style.backgroundColor = '#77DD77';
+      } else if (intersection.length > 0) {
+          cell.style.backgroundColor = '#FBB124';
+      } else {
+          cell.style.backgroundColor = '#FF6961';
+      }
+      return;
+    }
+
     if (key === 'platforms') {
       const correctPlatforms = gameToGuess.platforms.map(g => g.name);
       const guessedPlatforms = guessedGame.platforms.map(g => g.name);
