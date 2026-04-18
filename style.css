@@ -53,16 +53,15 @@ body {
   text-align: center;
   border: 8px solid;
   border-radius: 10px;
-  box-shadow: 0 1px 32px white;
+  box-shadow: 0 1px 32px black;
   transform: rotate(0) scale(0);
-  animation: boom 1s linear;
+  animation: boom 1s ease-in forwards;
   animation-fill-mode: forwards;
 }
 
 @keyframes boom {
-  100% {
-    transform: rotate(1080deg) scale(1);
-  }
+  from { opacity: 0; }
+  to { opacity: 1; }
 }
 
 #startScreen div {
