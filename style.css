@@ -55,18 +55,13 @@ body {
   border-radius: 10px;
   box-shadow: 0 1px 32px black;
   transform: rotate(0) scale(0);
-  animation: 1s fadeInUp ease-in;
+  animation: boom 1s linear;
   animation-fill-mode: forwards;
 }
 
-@keyframes fadeInUp {
-  0% {
-    transform: translateY(100%);
-    opacity: 0;
-  }
+@keyframes boom {
   100% {
-    transform: translateY(0%);
-    opacity: 1;
+    transform: rotate(1080deg) scale(1);
   }
 }
 
