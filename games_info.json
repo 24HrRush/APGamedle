@@ -64291,5 +64291,252 @@
       }
     ],
     "rating": 85
+  },
+  {
+    "id": 9927,
+    "cover": {
+      "id": 81906,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1r76.jpg"
+    },
+    "first_release_date": "2016",
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 23554,
+        "company": {
+          "id": 818,
+          "name": "Atlus"
+        }
+      },
+      {
+        "id": 35624,
+        "company": {
+          "id": 9969,
+          "name": "P Studio"
+        }
+      },
+      {
+        "id": 35623,
+        "company": {
+          "id": 2488,
+          "name": "Atlus USA"
+        }
+      },
+      {
+        "id": 37286,
+        "company": {
+          "id": 423,
+          "name": "Deep Silver"
+        }
+      },
+      {
+        "id": 275660,
+        "company": {
+          "id": 112,
+          "name": "Sega"
+        }
+      }
+    ],
+    "name": "Persona 5",
+    "platforms": [
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "rating": 93
+  },
+  {
+    "id": 1876,
+    "cover": {
+      "id": 106713,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2ac9.jpg"
+    },
+    "first_release_date": "2008",
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 88190,
+        "company": {
+          "id": 1,
+          "name": "Electronic Arts"
+        }
+      },
+      {
+        "id": 88189,
+        "company": {
+          "id": 284,
+          "name": "Maxis"
+        }
+      }
+    ],
+    "name": "Spore",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "rating": 73
+  },
+  {
+    "id": 1105,
+    "cover": {
+      "id": 181616,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co3w4w.jpg"
+    },
+    "first_release_date": "2002",
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 186516,
+        "company": {
+          "id": 766,
+          "name": "Retro Studios"
+        }
+      },
+      {
+        "id": 186517,
+        "company": {
+          "id": 70,
+          "name": "Nintendo"
+        }
+      }
+    ],
+    "name": "Metroid Prime",
+    "platforms": [
+      {
+        "id": 21,
+        "name": "Nintendo GameCube"
+      },
+      {
+        "id": 5,
+        "name": "Wii"
+      }
+    ],
+    "rating": 92
+  },
+  {
+    "id": 1074,
+    "cover": {
+      "id": 329251,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co721v.jpg"
+    },
+    "first_release_date": "1996",
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 98353,
+        "company": {
+          "id": 70,
+          "name": "Nintendo"
+        }
+      },
+      {
+        "id": 148028,
+        "company": {
+          "id": 421,
+          "name": "Nintendo Entertainment Analysis & Development"
+        }
+      },
+      {
+        "id": 224520,
+        "company": {
+          "id": 33804,
+          "name": "Playtronic"
+        }
+      },
+      {
+        "id": 224521,
+        "company": {
+          "id": 812,
+          "name": "Gradiente"
+        }
+      }
+    ],
+    "name": "Super Mario 64",
+    "platforms": [
+      {
+        "id": 5,
+        "name": "Wii"
+      },
+      {
+        "id": 4,
+        "name": "Nintendo 64"
+      },
+      {
+        "id": 41,
+        "name": "Wii U"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "rating": 89
   }
 ]
