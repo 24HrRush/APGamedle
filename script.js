@@ -248,20 +248,32 @@ else {
     }
 
     if (key === 'involved_companies') {
-      const correctCompanies = gameToGuess.involved_companies.map(g => g.company.name);
-      const guessedCompanies = guessedGame.involved_companies.map(g => g.company.name);
+  const correctCompanies = (gameToGuess.involved_companies || []).map(c =>
+    c.company.name.trim().toLowerCase()
+  );
 
-      const intersection = guessedCompanies.filter(g => correctPlatforms.includes(g));
-      
-      if (intersection.length === guessedCompanies.length && guessedCompanies.length === correctCompanies.length) {
-          cell.style.backgroundColor = '#77DD77';
-      } else if (intersection.length > 0) {
-          cell.style.backgroundColor = '#FBB124';
-      } else {
-          cell.style.backgroundColor = '#FF6961';
-      }
-      return;
-    }
+  const guessedCompanies = (guessedGame.involved_companies || []).map(c =>
+    c.company.name.trim().toLowerCase()
+  );
+
+  const intersection = guessedCompanies.filter(g =>
+    correctCompanies.includes(g)
+  );
+
+  const isExactMatch =
+    correctCompanies.length === guessedCompanies.length &&
+    correctCompanies.every(c => guessedCompanies.includes(c));
+
+  if (isExactMatch) {
+    cell.style.backgroundColor = '#77DD77'; // green
+  } else if (intersection.length > 0) {
+    cell.style.backgroundColor = '#FBB124'; // yellow
+  } else {
+    cell.style.backgroundColor = '#FF6961'; // red
+  }
+
+  return;
+}
 
 
     if (key === 'platforms') {
