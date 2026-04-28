@@ -64669,5 +64669,110 @@
       }
     ],
     "rating": 88
+  },
+  {
+    "id": 1905,
+    "cover": {
+      "id": 550523,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobssb.jpg"
+    },
+    "first_release_date": "2017",
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 50303,
+        "company": {
+          "id": 167,
+          "name": "People Can Fly"
+        }
+      },
+      {
+        "id": 338140,
+        "company": {
+          "id": 17463,
+          "name": "Epic Games"
+        }
+      },
+      {
+        "id": 338176,
+        "company": {
+          "id": 711,
+          "name": "Psyonix"
+        }
+      },
+      {
+        "id": 338177,
+        "company": {
+          "id": 2581,
+          "name": "Mediatonic"
+        }
+      }
+    ],
+    "name": "Fortnite",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
+        "id": 34,
+        "name": "Android"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 39,
+        "name": "iOS"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "rating": 71
   }
+  
 ]

@@ -1,0 +1,141 @@
+[
+  {
+    "id": 1905,
+    "cover": {
+      "id": 550523,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobssb.jpg"
+    },
+    "first_release_date": 1593388800,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 50303,
+        "company": {
+          "id": 167,
+          "name": "People Can Fly"
+        }
+      },
+      {
+        "id": 338140,
+        "company": {
+          "id": 17463,
+          "name": "Epic Games"
+        }
+      },
+      {
+        "id": 338176,
+        "company": {
+          "id": 711,
+          "name": "Psyonix"
+        }
+      },
+      {
+        "id": 338177,
+        "company": {
+          "id": 2581,
+          "name": "Mediatonic"
+        }
+      }
+    ],
+    "name": "Fortnite",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
+        "id": 34,
+        "name": "Android"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 39,
+        "name": "iOS"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "rating": 70.98932031146678
+  },
+  {
+    "id": 231090,
+    "cover": {
+      "id": 279706,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5ztm.jpg"
+    },
+    "first_release_date": 1515542400,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "involved_companies": [
+      {
+        "id": 199928,
+        "company": {
+          "id": 3595,
+          "name": "Tencent Games"
+        }
+      }
+    ],
+    "name": "Fortnite",
+    "platforms": [
+      {
+        "id": 34,
+        "name": "Android"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "rating": 70.03029520773099
+  }
+]
