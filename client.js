@@ -1,4 +1,4 @@
-import {Client} from "./node_modules/archipelago.js";
+import { Client } from "./node_modules/archipelago.js/dist/archipelago.min.js";
 
 // Create a new instance of the Client class.
 const client = new Client();
