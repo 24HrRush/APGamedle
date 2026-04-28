@@ -10,7 +10,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vite",
-  "build": "vite build"  
+    "build": "vite build",
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -22,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/24HrRush/APGamedle/issues"
   },
-  "homepage": "https://github.com/24HrRush/APGamedle#readme"
+  "homepage": "https://github.com/24HrRush/APGamedle#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
 }
