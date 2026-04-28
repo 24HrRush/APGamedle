@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gamedle for AP</title>
+  <link rel="icon" type="image/png" href="/APGamedle/assets/icon-B2ZCq-Ar.png">
+
+
+  <script type="importmap">
+{
+  "imports": {
+    "archipelago.js": "./archipelago.js"
+  }
+}
+</script>
+  <script type="module" crossorigin src="/APGamedle/assets/index-CbuK3HFy.js"></script>
+  <link rel="stylesheet" crossorigin href="/APGamedle/assets/index-CGif7pTJ.css">
+</head>
+<body>
+  <div id="startScreen">
+  <div>
+    <h1>AP Gamedle</h1>
+  </div>
+  <div>
+    <p><button id="myButton">Click Me to Start!</button></p>
+  </div>
+</div>
+
+<div id="gameScreen" style="display: none;">
+  <h2>AP Gamedle</h2>
+
+  <div id="livesDiv">Lives remaining: <span id="lives">❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️</span></div>
+
+  <div id="board">
+    <input type="text" id="guess" list="game-titles" placeholder="Guess the game:">
+    <datalist id="game-titles">
+      <!-- This will be populated by JavaScript -->
+    </datalist>
+
+  </div>
+
+  <button onclick="checkGuess()" id="guessButton">Guess</button>
+  <button onclick="resetGame()" id="resetButton">Reset Game</button>
+  <button id="hintButton" onclick="giveHint()">Hint</button>
+
+
+
+
+  <table id="infoTable">
+    <thead>
+      <tr>
+        <th>Game ID</th>
+        <th id = "cover">Game Cover</th>
+        <th>Release Year</th>
+        <th>Genres</th>
+        <th>Involved Companies</th>
+        <th>Game Name</th>
+        <th>Platforms</th>
+        <th>Rating</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Entries will go here -->
+    </tbody>
+  </table>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
