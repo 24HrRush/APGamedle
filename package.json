@@ -1,5 +1,26 @@
 {
   "dependencies": {
-    "archipelago.js": "^2.1.0"
-  }
+    "archipelago.js": "^2.1.0",
+    "vite": "^8.0.10"
+  },
+  "name": "apgamedle",
+  "version": "1.0.0",
+  "description": "Foundation taken from manga gamedle clone",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+  "build": "vite build"  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/24HrRush/APGamedle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/24HrRush/APGamedle/issues"
+  },
+  "homepage": "https://github.com/24HrRush/APGamedle#readme"
 }
